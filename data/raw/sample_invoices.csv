@@ -1,0 +1,1041 @@
+invoice_id,invoice_date,vendor_raw,description,amount,category,true_vendor,injected_duplicate,injected_outlier
+INV-100136,2025-11-16,AQUAFLOW SERVICES,water charges,106.1,Utilities,Aquaflow Services,0,0
+INV-100628,2025-05-10,NETLINK BROADBAND Ltd.,water charges,85.76,Utilities,Netlink Broadband,0,0
+INV-100184,2025-08-01,LEXA LEGAL ASSOCIATES Ltd.,audit and tax advisory,1160.5,Professional Services,Lexa Legal Associates,0,0
+INV-100031,2025-08-14,brightoffice supplies Ltd.,stationery order,64.47,Office Supplies,Brightoffice Supplies,0,0
+INV-100677,2025-05-19,netlink broadband,internet broadband bill,88.52,Utilities,Netlink Broadband,0,0
+INV-100936,2025-08-27,Deskmate Stationers LLC,office desk accessories,84.98,Office Supplies,Deskmate Stationers,0,0
+INV-100289,2025-08-23,Brihtoffice  Supplies Pvt Ltd,printer paper and toner,94.42,Office Supplies,Brightoffice Supplies,0,0
+INV-100327,2025-10-31,Deskmate-Stationers LLC,office desk accessories,58.86,Office Supplies,Deskmate Stationers,0,0
+INV-100491,2025-04-17,AQUAFLOW SERVICES,electricity bill,32.98,Utilities,Aquaflow Services,0,0
+INV-100394,2025-04-04,Roadrunner-Cabs LLC,hotel stay client visit,54.91,Travel,Roadrunner Cabs,0,0
+INV-100666,2025-11-22,Paperline-Traders Ltd.,office desk accessories,74.71,Office Supplies,Paperline Traders,0,0
+INV-100545,2025-05-11,Skyroute  Travels Pvt Ltd,airport cab fare,361.72,Travel,Skyroute Travels,0,0
+INV-100869,2025-04-20,NETLINK BROADBAND Ltd.,water charges,89.42,Utilities,Netlink Broadband,0,0
+INV-100761,2025-01-12,Staywell-Hotels LLC,hotel stay client visit,290.28,Travel,Staywell Hotels,0,0
+INV-100256,2025-06-29,BRIGHTOFFICE SUPPLIES Co.,stationery order,50.85,Office Supplies,Brightoffice Supplies,0,0
+INV-100076,2025-06-12,DESKMATE STATIONER LLC,office desk accessories,61.44,Office Supplies,Deskmate Stationers,0,0
+INV-100773,2025-03-14,Skyroute Travels Pvt Ltd,hotel stay client visit,260.25,Travel,Skyroute Travels,0,0
+INV-100850,2025-04-11,cludnest systems Inc,cloud hosting fee,189.59,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100331,2025-06-13,Staywel Hotels Co.,hotel stay client visit,387.37,Travel,Staywell Hotels,0,0
+INV-100629,2025-06-27,PAPERLINE TRADERS,stationery order,55.35,Office Supplies,Paperline Traders,0,0
+INV-100968,2025-01-11,brandpeak marketing Ltd.,audit and tax advisory,752.13,Professional Services,Brandpeak Marketing,0,0
+INV-100811,2025-02-02,BRIGHTOFFICE SUPPLIES,office desk accessories,33.55,Office Supplies,Brightoffice Supplies,0,0
+INV-100377,2025-07-13,Paperline Traders,stationery order,39.35,Office Supplies,Paperline Traders,0,0
+INV-100722,2025-02-14,Ledgerwise ConsultantsPvt Ltd,marketing retainer,800.11,Professional Services,Ledgerwise Consultants,0,0
+INV-100622,2025-08-26,Roadrunner Cas Ltd.,airport cab fare,378.24,Travel,Roadrunner Cabs,0,0
+INV-100429,2025-04-25,Ledgerwise Consultants LLC,marketing retainer,1260.85,Professional Services,Ledgerwise Consultants,0,0
+INV-100916,2025-01-23,ROADRUNNER CABS,airport cab fare,278.62,Travel,Roadrunner Cabs,0,0
+INV-100086,2025-11-23,PAPERLINE TRADERS,stationery order,41.47,Office Supplies,Paperline Traders,0,0
+INV-100318,2025-07-14,Pixelforge Software Ltd.,cloud hosting fee,133.91,Software & Subscriptions,Pixelforge Software,0,0
+INV-100590,2025-01-03,deskmate stationers Ltd.,printer paper and toner,65.58,Office Supplies,Deskmate Stationers,0,0
+INV-100174,2025-05-31,Powerrid  Utilities LLC,water charges,86.65,Utilities,Powergrid Utilities,0,0
+INV-100208,2025-08-10,Ledgerwise Cnsultants Inc,legal consultation fee,986.01,Professional Services,Ledgerwise Consultants,0,0
+INV-100519,2025-01-26,Cloudnest Systems Co.,monthly saas subscription,133.63,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100970,2025-02-02,Powergrid Utilities,internet broadband bill,16.11,Utilities,Powergrid Utilities,0,0
+INV-100953,2025-07-23,Brightoffice-Supplies Pvt Ltd,printer paper and toner,28.64,Office Supplies,Brightoffice Supplies,0,0
+INV-100113,2025-06-19,NETLINK BROADBAND Pvt Ltd,internet broadband bill,88.98,Utilities,Netlink Broadband,0,0
+INV-100439,2025-02-15,cloudnest systems Co.,monthly saas subscription,144.61,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100554,2025-02-22,brightoffice supplies Pvt Ltd,office desk accessories,51.96,Office Supplies,Brightoffice Supplies,0,0
+INV-100539,2025-08-07,Paperline  Traders,printer paper and toner,24.27,Office Supplies,Paperline Traders,0,0
+INV-100059,2025-02-20,STAYWELL HOTELS Inc,hotel stay client visit,2864.96,Travel,Staywell Hotels,0,1
+INV-100548,2025-02-19,Pixelforge Software,cloud hosting fee,70.23,Software & Subscriptions,Pixelforge Software,0,0
+INV-100694,2025-07-12,Skyroute Travels Co.,flight booking,279.91,Travel,Skyroute Travels,0,0
+INV-100689,2025-04-01,Deskmate Stationers,stationery order,53.26,Office Supplies,Deskmate Stationers,0,0
+INV-100199,2025-06-02,netlink broadband Co.,water charges,84.08,Utilities,Netlink Broadband,0,0
+INV-100778,2025-08-19,STAYELL HOTELS Pvt Ltd,flight booking,340.25,Travel,Staywell Hotels,0,0
+INV-100734,2025-05-30,Datawave Analytics Ltd.,cloud hosting fee,103.67,Software & Subscriptions,Datawave Analytics,0,0
+INV-100442,2025-04-24,Cloudnest  Systems Inc,annual software license,193.91,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100516,2025-04-08,Powergrid-Utilities Co.,electricity bill,101.06,Utilities,Powergrid Utilities,0,0
+INV-100947,2025-02-20,Netlink-Broadband Pvt Ltd,water charges,77.71,Utilities,Netlink Broadband,0,0
+INV-100280,2025-11-16,Staywell Hotels LLC,airport cab fare,402.44,Travel,Staywell Hotels,0,0
+INV-100321,2025-04-15,staywell hotels,airport cab fare,282.68,Travel,Staywell Hotels,0,0
+INV-100049,2025-04-03,Lexa-Legal-Associates,marketing retainer,731.33,Professional Services,Lexa Legal Associates,0,0
+INV-100887,2025-10-04,Deskmate  Sationers Ltd.,stationery order,68.08,Office Supplies,Deskmate Stationers,0,0
+INV-100109,2025-05-03,Paperline-Traders,office desk accessories,43.57,Office Supplies,Paperline Traders,0,0
+INV-100980,2025-09-04,Cloudnest-Systems LLC,monthly saas subscription,115.79,Software & Subscriptions,Cloudnest Systems,0,0
+INV-900015,2025-05-07,Staywell Hotels,airport cab fare,488.93,Travel,Staywell Hotels,1,0
+INV-900005,2025-10-23,Datawave  Analytics Ltd.,cloud hosting fee,179.4,Software & Subscriptions,Datawave Analytics,1,0
+INV-100961,2025-04-16,Pixelforge  Software Pvt Ltd,annual software license,127.25,Software & Subscriptions,Pixelforge Software,0,0
+INV-100010,2025-01-31,Cloudnest Systems LLC,cloud hosting fee,85.63,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100501,2025-03-04,Staywell  Hotels Ltd.,flight booking,408.77,Travel,Staywell Hotels,0,0
+INV-100523,2025-08-22,Pixelforge  Software Inc,annual software license,189.16,Software & Subscriptions,Pixelforge Software,0,0
+INV-100661,2025-08-28,CLOUDNEST SYSTEMS,cloud hosting fee,164.19,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100070,2025-01-27,POWERGRID UTILITIES LLC,electricity bill,84.86,Utilities,Powergrid Utilities,0,0
+INV-900039,2025-02-10,PAPERLINE TRADERS Inc,office desk accessories,69.77,Office Supplies,Paperline Traders,1,0
+INV-100626,2025-04-19,pixelfrge software,annual software license,97.14,Software & Subscriptions,Pixelforge Software,0,0
+INV-100261,2025-04-10,Datawave  Analytics LLC,cloud hosting fee,843.49,Software & Subscriptions,Datawave Analytics,0,1
+INV-100361,2025-10-27,Lexa Legal Associates Pvt Ltd,marketing retainer,799.51,Professional Services,Lexa Legal Associates,0,0
+INV-100398,2025-08-03,Deskmate Stationers LLC,printer paper and toner,36.47,Office Supplies,Deskmate Stationers,0,0
+INV-100342,2025-06-15,ROADRUNER CABS,hotel stay client visit,5.0,Travel,Roadrunner Cabs,0,0
+INV-100436,2025-06-26,AQUAFLOW SERVICES Co.,electricity bill,107.48,Utilities,Aquaflow Services,0,0
+INV-100530,2025-11-01,Powergrid Utilities LLC,internet broadband bill,88.72,Utilities,Powergrid Utilities,0,0
+INV-100332,2025-10-14,LEDGERWISE CONSULTANTS Inc,legal consultation fee,846.43,Professional Services,Ledgerwise Consultants,0,0
+INV-100139,2025-07-11,Paperline  Traders LLC,office desk accessories,42.44,Office Supplies,Paperline Traders,0,0
+INV-100881,2025-06-08,Roadrunner Cabs Inc,hotel stay client visit,292.38,Travel,Roadrunner Cabs,0,0
+INV-100759,2025-01-01,lexa legal associates LLC,marketing retainer,535.04,Professional Services,Lexa Legal Associates,0,0
+INV-100312,2025-10-05,Staywell Hotels Ltd.,flight booking,228.33,Travel,Staywell Hotels,0,0
+INV-100924,2025-02-12,POWERGRID UTILITIES Co.,water charges,121.14,Utilities,Powergrid Utilities,0,0
+INV-100141,2025-08-25,Aquaflow  Services,internet broadband bill,56.84,Utilities,Aquaflow Services,0,0
+INV-900035,2025-03-07,deskmate statoners Ltd.,printer paper and toner,64.54,Office Supplies,Deskmate Stationers,1,0
+INV-900021,2025-06-18,skyroute travels Co.,flight booking,320.01,Travel,Skyroute Travels,1,0
+INV-100717,2025-07-13,Roadrunner Cabs Pvt Ltd,hotel stay client visit,303.09,Travel,Roadrunner Cabs,0,0
+INV-100948,2025-02-19,Brightoffice-Supplies,printer paper and toner,48.39,Office Supplies,Brightoffice Supplies,0,0
+INV-100088,2025-04-08,aquaflow services,electricity bill,105.88,Utilities,Aquaflow Services,0,0
+INV-100842,2025-09-22,staywell hotels Inc,hotel stay client visit,274.66,Travel,Staywell Hotels,0,0
+INV-100305,2025-06-17,netlink broadband LLC,electricity bill,719.14,Utilities,Netlink Broadband,0,1
+INV-100101,2025-07-02,DESKMATE STATIONERS LLC,stationery order,26.51,Office Supplies,Deskmate Stationers,0,0
+INV-100310,2025-05-13,Datawave Analytics Inc,annual software license,133.32,Software & Subscriptions,Datawave Analytics,0,0
+INV-100859,2025-11-09,Aquaflow  Services Inc,internet broadband bill,80.63,Utilities,Aquaflow Services,0,0
+INV-100451,2025-04-04,Skyroute Travels Ltd.,hotel stay client visit,311.03,Travel,Skyroute Travels,0,0
+INV-100096,2025-06-29,PAPERLINE TRADERS Ltd.,printer paper and toner,43.74,Office Supplies,Paperline Traders,0,0
+INV-100814,2025-03-01,Roadrunner  Cabs LLC,flight booking,248.44,Travel,Roadrunner Cabs,0,0
+INV-100792,2025-07-24,Datawave  Analytics Pvt Ltd,monthly saas subscription,43.67,Software & Subscriptions,Datawave Analytics,0,0
+INV-100030,2025-03-21,Staywell Hotels LLC,hotel stay client visit,344.06,Travel,Staywell Hotels,0,0
+INV-100158,2025-03-24,Netlink Broadband,internet broadband bill,71.77,Utilities,Netlink Broadband,0,0
+INV-100688,2025-10-15,paperline traders Pvt Ltd,stationery order,61.04,Office Supplies,Paperline Traders,0,0
+INV-100054,2025-04-21,Cloudnest  Systems Pvt Ltd,annual software license,93.52,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100023,2025-06-04,skyroute travels,hotel stay client visit,444.19,Travel,Skyroute Travels,0,0
+INV-100611,2025-09-08,CLOUDNEST SYSTEMS Ltd.,monthly saas subscription,114.1,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100739,2025-08-15,Staywell  Hotels Ltd.,flight booking,3050.51,Travel,Staywell Hotels,0,1
+INV-100644,2025-10-04,paperline traders Ltd.,office desk accessories,25.53,Office Supplies,Paperline Traders,0,0
+INV-100633,2025-11-11,CLOUDNEST SYSTEMS Ltd.,monthly saas subscription,132.38,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100601,2025-04-11,SKYROUTE TRAVELS Pvt Ltd,airport cab fare,272.55,Travel,Skyroute Travels,0,0
+INV-100178,2025-06-20,DATAWAVE ANALYTICS Ltd.,annual software license,138.86,Software & Subscriptions,Datawave Analytics,0,0
+INV-100003,2025-02-01,Brightoffice-Supplies Pvt Ltd,stationery order,198.74,Office Supplies,Brightoffice Supplies,0,1
+INV-100277,2025-07-19,Lexa Legal Associates,marketing retainer,414.78,Professional Services,Lexa Legal Associates,0,0
+INV-100593,2025-06-13,Cloudnest Systems,cloud hosting fee,41.66,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100292,2025-03-14,cloudnest systems Co.,monthly saas subscription,138.99,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100298,2025-10-15,skyroute travels Ltd.,flight booking,299.18,Travel,Skyroute Travels,0,0
+INV-100816,2025-06-23,Staywell  Hotels,airport cab fare,223.25,Travel,Staywell Hotels,0,0
+INV-100873,2025-09-13,Aquaflow-Services LLC,internet broadband bill,36.77,Utilities,Aquaflow Services,0,0
+INV-100231,2025-06-22,STAYWELL HOTELS Inc,airport cab fare,327.92,Travel,Staywell Hotels,0,0
+INV-100210,2025-06-01,Staywell Hotels Ltd.,airport cab fare,449.52,Travel,Staywell Hotels,0,0
+INV-100458,2025-02-28,Skyroute-Travels Co.,airport cab fare,411.94,Travel,Skyroute Travels,0,0
+INV-100923,2025-11-15,Datawave  Analytics,annual software license,173.15,Software & Subscriptions,Datawave Analytics,0,0
+INV-100932,2025-09-10,Paperline  Traders Ltd.,office desk accessories,84.52,Office Supplies,Paperline Traders,0,0
+INV-900019,2025-09-29,Brightoffice-Supplies LLC,office desk accessories,76.59,Office Supplies,Brightoffice Supplies,1,0
+INV-100405,2025-01-14,Aquaflow Services LLC,water charges,79.41,Utilities,Aquaflow Services,0,0
+INV-100063,2025-04-30,Cloudnest Systems Ltd.,cloud hosting fee,62.12,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100319,2025-08-20,Staywell Hotels LLC,flight booking,288.72,Travel,Staywell Hotels,0,0
+INV-100468,2025-05-21,deskmate stationers LLC,printer paper and toner,89.97,Office Supplies,Deskmate Stationers,0,0
+INV-100440,2025-01-20,PAPERLINE TRADERS LLC,office desk accessories,25.39,Office Supplies,Paperline Traders,0,0
+INV-100100,2025-04-10,Aquaflow  Services Ltd.,internet broadband bill,86.03,Utilities,Aquaflow Services,0,0
+INV-100336,2025-01-22,brightoffice suppliesLtd.,office desk accessories,78.71,Office Supplies,Brightoffice Supplies,0,0
+INV-100450,2025-11-20,Paperline Traders Ltd.,stationery order,41.95,Office Supplies,Paperline Traders,0,0
+INV-100408,2025-03-21,Paperline Traders Inc,office desk accessories,24.5,Office Supplies,Paperline Traders,0,0
+INV-100107,2025-03-17,Powergrid Utilities,water charges,65.87,Utilities,Powergrid Utilities,0,0
+INV-100168,2025-06-06,Brandpeak  Marketing,audit and tax advisory,442.26,Professional Services,Brandpeak Marketing,0,0
+INV-100039,2025-08-09,Pixelforge Software Co.,monthly saas subscription,158.73,Software & Subscriptions,Pixelforge Software,0,0
+INV-100198,2025-10-03,Cloudnest Systems,cloud hosting fee,178.86,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100237,2025-08-06,SKYROUTE TRAVELS,airport cab fare,413.12,Travel,Skyroute Travels,0,0
+INV-100575,2025-07-11,SKYROUTE TRAVELS,flight booking,242.2,Travel,Skyroute Travels,0,0
+INV-100192,2025-03-21,BRIGHTOFFICE SUPPLIES Inc,office desk accessories,69.09,Office Supplies,Brightoffice Supplies,0,0
+INV-100704,2025-10-10,AQUAFLOW SERVICES Inc,electricity bill,66.13,Utilities,Aquaflow Services,0,0
+INV-100723,2025-10-04,Deskmate Stationers,stationery order,58.45,Office Supplies,Deskmate Stationers,0,0
+INV-100066,2025-05-31,Skyroute-Travels Ltd.,hotel stay client visit,220.4,Travel,Skyroute Travels,0,0
+INV-100067,2025-03-29,Netlink Broadband,electricity bill,122.48,Utilities,Netlink Broadband,0,0
+INV-100920,2025-04-06,PAPERLINE TRADERS LLC,stationery order,25.34,Office Supplies,Paperline Traders,0,0
+INV-100497,2025-08-23,DATAWAVE ANALYTICS Co.,annual software license,122.33,Software & Subscriptions,Datawave Analytics,0,0
+INV-100213,2025-09-23,BRIGHTOFFICE SUPPLIES Co.,printer paper and toner,54.07,Office Supplies,Brightoffice Supplies,0,0
+INV-100830,2025-10-30,Netlink  Broadband,electricity bill,103.99,Utilities,Netlink Broadband,0,0
+INV-100834,2025-09-20,Pixelforge-Software Pvt Ltd,monthly saas subscription,133.08,Software & Subscriptions,Pixelforge Software,0,0
+INV-100649,2025-07-25,Brandpeak  Marketing,marketing retainer,699.58,Professional Services,Brandpeak Marketing,0,0
+INV-100350,2025-08-23,LEDGERWISE CONSULTANTS Pvt Ltd,marketing retainer,847.03,Professional Services,Ledgerwise Consultants,0,0
+INV-100861,2025-07-11,Ledgerwise Consultants Co.,audit and tax advisory,705.14,Professional Services,Ledgerwise Consultants,0,0
+INV-100602,2025-09-27,Pixelforge  Software Co.,monthly saas subscription,19.93,Software & Subscriptions,Pixelforge Software,0,0
+INV-100558,2025-04-24,Cloudnest-System Ltd.,annual software license,73.52,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100877,2025-03-03,Powergrid-Utilities LLC,electricity bill,65.87,Utilities,Powergrid Utilities,0,0
+INV-100787,2025-08-31,lexa legal associates Ltd.,legal consultation fee,483.27,Professional Services,Lexa Legal Associates,0,0
+INV-900013,2025-07-11,brightoffice supplies Ltd.,office desk accessories,79.38,Office Supplies,Brightoffice Supplies,1,0
+INV-100745,2025-06-02,Datawave Analytics Pvt Ltd,cloud hosting fee,144.56,Software & Subscriptions,Datawave Analytics,0,0
+INV-100308,2025-01-31,SKYROUTE TRAVELS Ltd.,airport cab fare,337.62,Travel,Skyroute Travels,0,0
+INV-100706,2025-09-26,Datawave  Analytics Pvt Ltd,monthly saas subscription,124.08,Software & Subscriptions,Datawave Analytics,0,0
+INV-100404,2025-04-09,pixelforge software Co.,cloud hosting fee,53.93,Software & Subscriptions,Pixelforge Software,0,0
+INV-100002,2025-03-08,CLOUDNEST SYSTEMS Pvt Ltd,cloud hosting fee,157.62,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100430,2025-08-23,roadrunner cabs Pvt Ltd,airport cab fare,275.42,Travel,Roadrunner Cabs,0,0
+INV-100544,2025-06-23,Brandpeak-Marketing Co.,legal consultation fee,461.59,Professional Services,Brandpeak Marketing,0,0
+INV-100770,2025-06-27,datawave analytics,cloud hosting fee,116.45,Software & Subscriptions,Datawave Analytics,0,0
+INV-100344,2025-05-21,Skyroute Travels LLC,airport cab fare,367.84,Travel,Skyroute Travels,0,0
+INV-100979,2025-01-20,Pixelforge Software Inc,cloud hosting fee,140.4,Software & Subscriptions,Pixelforge Software,0,0
+INV-100986,2025-08-21,Pixelforge  Software,cloud hosting fee,91.02,Software & Subscriptions,Pixelforge Software,0,0
+INV-100784,2025-07-23,Aquaflow  Services LLC,electricity bill,54.56,Utilities,Aquaflow Services,0,0
+INV-100483,2025-05-18,Cloudnest Systems Ltd.,monthly saas subscription,119.45,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100915,2025-10-03,Brandpeak-Marketing Inc,marketing retainer,802.56,Professional Services,Brandpeak Marketing,0,0
+INV-100357,2025-01-27,Ledgerwise  Consultants Pvt Ltd,marketing retainer,728.93,Professional Services,Ledgerwise Consultants,0,0
+INV-100557,2025-02-28,lexa legal associates Ltd.,legal consultation fee,1016.31,Professional Services,Lexa Legal Associates,0,0
+INV-100585,2025-09-06,Staywell-Hotels,airport cab fare,329.24,Travel,Staywell Hotels,0,0
+INV-100721,2025-01-03,Netlink  Broadband Pvt Ltd,electricity bill,63.2,Utilities,Netlink Broadband,0,0
+INV-100964,2025-10-25,Cloudnest  Systems,annual software license,146.19,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100880,2025-06-16,ledgerwise consultants LLC,audit and tax advisory,835.14,Professional Services,Ledgerwise Consultants,0,0
+INV-100218,2025-07-29,NETLINK BROADBAND,water charges,119.28,Utilities,Netlink Broadband,0,0
+INV-100359,2025-06-04,Pixelforge  Software Co.,cloud hosting fee,105.53,Software & Subscriptions,Pixelforge Software,0,0
+INV-100753,2025-06-12,Brightoffice-Supplies,office desk accessories,55.19,Office Supplies,Brightoffice Supplies,0,0
+INV-100547,2025-07-07,POWERGRID UTILITIES Ltd.,internet broadband bill,501.24,Utilities,Powergrid Utilities,0,1
+INV-100247,2025-08-29,Deskmate  Stationers,office desk accessories,45.13,Office Supplies,Deskmate Stationers,0,0
+INV-100767,2025-01-31,Paperline  Tradrs Inc,office desk accessories,56.7,Office Supplies,Paperline Traders,0,0
+INV-100902,2025-03-22,SKYROUTE TRAVELS Inc,flight booking,524.54,Travel,Skyroute Travels,0,0
+INV-100306,2025-02-12,Netlink  Broadband Co.,electricity bill,138.78,Utilities,Netlink Broadband,0,0
+INV-100106,2025-11-18,Aquaflow Services Co.,electricity bill,77.52,Utilities,Aquaflow Services,0,0
+INV-100987,2025-05-03,LEXA LEGAL ASSOCIATES Pvt Ltd,marketing retainer,801.14,Professional Services,Lexa Legal Associates,0,0
+INV-100055,2025-01-08,cloudnest systems,cloud hosting fee,104.73,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100120,2025-06-04,ledgerwise consultants,legal consultation fee,762.88,Professional Services,Ledgerwise Consultants,0,0
+INV-100800,2025-04-30,Staywell  Hotels Pvt Ltd,airport cab fare,389.61,Travel,Staywell Hotels,0,0
+INV-100025,2025-06-06,Staywell  Hotels,flight booking,229.31,Travel,Staywell Hotels,0,0
+INV-100072,2025-08-21,Roadrunner-Cabs LLC,hotel stay client visit,412.43,Travel,Roadrunner Cabs,0,0
+INV-100209,2025-10-30,Aquaflow Services Co.,internet broadband bill,133.31,Utilities,Aquaflow Services,0,0
+INV-100044,2025-04-25,cloudnest systems LLC,annual software license,106.05,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100314,2025-10-31,roadrnner cabs Pvt Ltd,hotel stay client visit,197.09,Travel,Roadrunner Cabs,0,0
+INV-100866,2025-03-09,skyroute travels LLC,airport cab fare,98.45,Travel,Skyroute Travels,0,0
+INV-100653,2025-07-30,Pixelforge Software Inc,monthly saas subscription,118.58,Software & Subscriptions,Pixelforge Software,0,0
+INV-100328,2025-03-30,Skyroute Travels Co.,hotel stay client visit,301.26,Travel,Skyroute Travels,0,0
+INV-100925,2025-08-22,Powergrid Utilities,internet broadband bill,52.13,Utilities,Powergrid Utilities,0,0
+INV-100351,2025-02-24,Staywell-Hotels,flight booking,418.76,Travel,Staywell Hotels,0,0
+INV-100956,2025-05-15,Paperline  Traders Pvt Ltd,printer paper and toner,104.59,Office Supplies,Paperline Traders,0,0
+INV-100635,2025-03-10,Skyroute-Travels LLC,airport cab fare,310.33,Travel,Skyroute Travels,0,0
+INV-100714,2025-07-20,ROADRUNNER CABS Co.,flight booking,481.92,Travel,Roadrunner Cabs,0,0
+INV-100370,2025-08-28,Aquaflow  Services Pvt Ltd,internet broadband bill,95.08,Utilities,Aquaflow Services,0,0
+INV-100685,2025-03-07,Roadrunner  Cabs LLC,airport cab fare,264.92,Travel,Roadrunner Cabs,0,0
+INV-100810,2025-10-22,DATAWAVE ANALYTICS Co.,cloud hosting fee,179.4,Software & Subscriptions,Datawave Analytics,0,0
+INV-100538,2025-04-24,Roadrunner Cabs,flight booking,376.23,Travel,Roadrunner Cabs,0,0
+INV-100614,2025-08-28,Netlink Broadband Ltd.,internet broadband bill,84.36,Utilities,Netlink Broadband,0,0
+INV-100464,2025-03-26,deskmate stationers Pvt Ltd,printer paper and toner,49.57,Office Supplies,Deskmate Stationers,0,0
+INV-100998,2025-05-11,Roadrunner Cabs Co.,hotel stay client visit,507.64,Travel,Roadrunner Cabs,0,0
+INV-100362,2025-03-05,LEDGERWISE CONSULTANTS Ltd.,marketing retainer,355.53,Professional Services,Ledgerwise Consultants,0,0
+INV-100543,2025-03-25,paperline traders,office desk accessories,43.1,Office Supplies,Paperline Traders,0,0
+INV-100617,2025-03-01,BRIGHTOFFICE SUPPLIES Ltd.,stationery order,67.94,Office Supplies,Brightoffice Supplies,0,0
+INV-100060,2025-02-24,Staywell  Hotes Co.,airport cab fare,393.19,Travel,Staywell Hotels,0,0
+INV-100841,2025-05-23,AQUAFLOW SERVICES LLC,water charges,91.7,Utilities,Aquaflow Services,0,0
+INV-900010,2025-03-30,Brandpeak  Marketing Ltd.,legal consultation fee,238.56,Professional Services,Brandpeak Marketing,1,0
+INV-100092,2025-08-10,Brandpeak Marketing LLC,marketing retainer,1139.28,Professional Services,Brandpeak Marketing,0,0
+INV-100634,2025-11-13,powergrid utilities LLC,internet broadband bill,104.74,Utilities,Powergrid Utilities,0,0
+INV-100381,2025-05-12,AQUAFLOW SERVICES Ltd.,water charges,98.36,Utilities,Aquaflow Services,0,0
+INV-100506,2025-04-03,Lexa Legal Associates,legal consultation fee,721.79,Professional Services,Lexa Legal Associates,0,0
+INV-100693,2025-06-28,aquaflow services,internet broadband bill,37.3,Utilities,Aquaflow Services,0,0
+INV-100874,2025-03-21,ROADRUNNER CABS Co.,airport cab fare,348.34,Travel,Roadrunner Cabs,0,0
+INV-100853,2025-03-12,Paperline Traders Pvt Ltd,printer paper and toner,51.06,Office Supplies,Paperline Traders,0,0
+INV-100972,2025-11-18,Staywell  Hotels Inc,flight booking,246.89,Travel,Staywell Hotels,0,0
+INV-100631,2025-02-11,SKYROUTE TRAVELS LLC,airport cab fare,369.32,Travel,Skyroute Travels,0,0
+INV-100244,2025-01-29,brandpeak marketing,marketing retainer,784.35,Professional Services,Brandpeak Marketing,0,0
+INV-100346,2025-09-06,POWERGRID TILITIES Inc,water charges,50.98,Utilities,Powergrid Utilities,0,0
+INV-100352,2025-11-13,Aquaflow Services Inc,water charges,130.72,Utilities,Aquaflow Services,0,0
+INV-100275,2025-01-12,Brandpeak Mrketing Pvt Ltd,marketing retainer,674.14,Professional Services,Brandpeak Marketing,0,0
+INV-100265,2025-04-04,Netlink  Broadband,water charges,101.48,Utilities,Netlink Broadband,0,0
+INV-100307,2025-02-09,powergrid utilities Co.,water charges,91.73,Utilities,Powergrid Utilities,0,0
+INV-100918,2025-09-19,pwergrid utilities,electricity bill,83.65,Utilities,Powergrid Utilities,0,0
+INV-100528,2025-09-20,Ledgerwise Consultants Ltd.,legal consultation fee,787.34,Professional Services,Ledgerwise Consultants,0,0
+INV-100514,2025-02-19,aqualow services Co.,electricity bill,66.98,Utilities,Aquaflow Services,0,0
+INV-100110,2025-11-14,Datawave Analytics LLC,annual software license,153.54,Software & Subscriptions,Datawave Analytics,0,0
+INV-100736,2025-02-21,Cloudnest Systems Inc,cloud hosting fee,146.13,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100578,2025-04-22,Lexa  Legal  Associates Ltd.,legal consultation fee,899.89,Professional Services,Lexa Legal Associates,0,0
+INV-100534,2025-05-17,NETLINK ROADBAND,electricity bill,91.11,Utilities,Netlink Broadband,0,0
+INV-100695,2025-07-21,DATAWAVE ANALYTICS Ltd.,cloud hosting fee,121.44,Software & Subscriptions,Datawave Analytics,0,0
+INV-100533,2025-02-11,paperline traders Inc,printer paper and toner,64.98,Office Supplies,Paperline Traders,0,0
+INV-100448,2025-10-20,DATAWAVE ANALYTICS LLC,cloud hosting fee,107.05,Software & Subscriptions,Datawave Analytics,0,0
+INV-100294,2025-05-03,BRIGHTOFFICESUPPLIES LLC,printer paper and toner,78.57,Office Supplies,Brightoffice Supplies,0,0
+INV-100299,2025-07-08,Brandpeak Mrketing,marketing retainer,779.62,Professional Services,Brandpeak Marketing,0,0
+INV-100824,2025-11-14,BRANDPEAK MARKETING Ltd.,marketing retainer,991.49,Professional Services,Brandpeak Marketing,0,0
+INV-100758,2025-03-16,staywell htels Co.,flight booking,369.53,Travel,Staywell Hotels,0,0
+INV-100995,2025-10-23,BRANDPEAK MARKETING,audit and tax advisory,664.18,Professional Services,Brandpeak Marketing,0,0
+INV-100749,2025-10-02,Roadrunner Cabs Inc,flight booking,232.59,Travel,Roadrunner Cabs,0,0
+INV-100664,2025-06-23,Deskmate  Stationers Inc,stationery order,69.27,Office Supplies,Deskmate Stationers,0,0
+INV-100570,2025-11-23,ROADRUNER CABS LLC,airport cab fare,529.56,Travel,Roadrunner Cabs,0,0
+INV-100290,2025-06-18,Skyroute Travels Pvt Ltd,hotel stay client visit,167.96,Travel,Skyroute Travels,0,0
+INV-100774,2025-11-14,Cloudnest-Systems LLC,cloud hosting fee,120.58,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100137,2025-02-10,cloudnest systems,cloud hosting fee,118.05,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100409,2025-05-16,Ledgerwise  Consultants Co.,audit and tax advisory,572.94,Professional Services,Ledgerwise Consultants,0,0
+INV-100420,2025-10-27,Powergrid Utilities LLC,electricity bill,96.04,Utilities,Powergrid Utilities,0,0
+INV-100741,2025-11-26,STAYWELL HOTELS,airport cab fare,312.62,Travel,Staywell Hotels,0,0
+INV-100796,2025-09-07,Ledgerwise-Consultants,legal consultation fee,732.7,Professional Services,Ledgerwise Consultants,0,0
+INV-100286,2025-09-26,Pixelforge  Software,monthly saas subscription,96.22,Software & Subscriptions,Pixelforge Software,0,0
+INV-100591,2025-06-08,bradpeak marketing Co.,legal consultation fee,859.34,Professional Services,Brandpeak Marketing,0,0
+INV-100847,2025-08-06,Cloudnest  Systems Co.,cloud hosting fee,90.98,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100029,2025-09-23,LEXA LEGAL ASSOCIATES LLC,legal consultation fee,725.67,Professional Services,Lexa Legal Associates,0,0
+INV-100260,2025-01-04,AQUAFLOW SERVICES Inc,electricity bill,70.15,Utilities,Aquaflow Services,0,0
+INV-100078,2025-02-16,Staywell Hotels Ltd.,hotel stay client visit,322.4,Travel,Staywell Hotels,0,0
+INV-100215,2025-04-06,lexa legal associates,marketing retainer,917.71,Professional Services,Lexa Legal Associates,0,0
+INV-100788,2025-05-07,roadrunner cabs Co.,airport cab fare,225.31,Travel,Roadrunner Cabs,0,0
+INV-100165,2025-03-23,Powergrid  Utilities,internet broadband bill,57.81,Utilities,Powergrid Utilities,0,0
+INV-100248,2025-04-30,syroute travels Ltd.,airport cab fare,229.55,Travel,Skyroute Travels,0,0
+INV-100785,2025-03-14,NETLINK BROADBAND,internet broadband bill,80.92,Utilities,Netlink Broadband,0,0
+INV-900000,2025-04-26,Cloudnest Systems Pvt Ltd,annual software license,118.46,Software & Subscriptions,Cloudnest Systems,1,0
+INV-900037,2025-06-03,NETLINK BROADBAND LLC,internet broadband bill,139.01,Utilities,Netlink Broadband,1,0
+INV-100334,2025-07-06,Brandpeak Marketing Inc,marketing retainer,637.03,Professional Services,Brandpeak Marketing,0,0
+INV-100597,2025-10-25,Aquaflow ervices LLC,water charges,113.69,Utilities,Aquaflow Services,0,0
+INV-100926,2025-07-24,Datawave-Analytics,cloud hosting fee,153.16,Software & Subscriptions,Datawave Analytics,0,0
+INV-100065,2025-11-14,Roadrunner Cabs Co.,flight booking,363.98,Travel,Roadrunner Cabs,0,0
+INV-100365,2025-06-12,DATAWAVE ANALYTICS,cloud hosting fee,88.54,Software & Subscriptions,Datawave Analytics,0,0
+INV-100977,2025-06-04,Paperline  Traders,office desk accessories,53.87,Office Supplies,Paperline Traders,0,0
+INV-100254,2025-02-10,BRANDPEAK MARKETING Co.,marketing retainer,654.86,Professional Services,Brandpeak Marketing,0,0
+INV-100708,2025-11-11,PIXELFORGE SOFTWARE,cloud hosting fee,98.49,Software & Subscriptions,Pixelforge Software,0,0
+INV-100819,2025-03-09,NETLINK BROADBAND,electricity bill,85.35,Utilities,Netlink Broadband,0,0
+INV-100221,2025-11-05,Netlink Broadband,water charges,88.33,Utilities,Netlink Broadband,0,0
+INV-100235,2025-02-09,Brandpeak-Marketing Ltd.,marketing retainer,352.05,Professional Services,Brandpeak Marketing,0,0
+INV-100494,2025-03-23,Powergrid Utilities Ltd.,internet broadband bill,97.06,Utilities,Powergrid Utilities,0,0
+INV-100522,2025-10-06,brandpeak marketing LLC,legal consultation fee,418.43,Professional Services,Brandpeak Marketing,0,0
+INV-100296,2025-07-15,Brandpeak  Marketing Pvt Ltd,audit and tax advisory,464.65,Professional Services,Brandpeak Marketing,0,0
+INV-100580,2025-04-20,Roadrunner Cabs Co.,hotel stay client visit,321.54,Travel,Roadrunner Cabs,0,0
+INV-100958,2025-04-18,roadrunner cabs Ltd.,hotel stay client visit,323.08,Travel,Roadrunner Cabs,0,0
+INV-100249,2025-09-15,Pixelforge  Software Pvt Ltd,cloud hosting fee,153.78,Software & Subscriptions,Pixelforge Software,0,0
+INV-100599,2025-11-11,Lexa Legal Associates Co.,audit and tax advisory,459.47,Professional Services,Lexa Legal Associates,0,0
+INV-100447,2025-07-29,cloudnest systems LLC,monthly saas subscription,168.5,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100071,2025-02-01,Paperline-Traders LLC,printer paper and toner,53.22,Office Supplies,Paperline Traders,0,0
+INV-100094,2025-06-28,Staywell  Hotels,flight booking,211.15,Travel,Staywell Hotels,0,0
+INV-100033,2025-01-03,Lexa  Legal  Associats,legal consultation fee,763.61,Professional Services,Lexa Legal Associates,0,0
+INV-100259,2025-04-08,Roadrunner  Cabs Inc,airport cab fare,143.86,Travel,Roadrunner Cabs,0,0
+INV-100204,2025-06-16,saywell hotels,airport cab fare,151.28,Travel,Staywell Hotels,0,0
+INV-100813,2025-02-28,pixelforge software,cloud hosting fee,115.9,Software & Subscriptions,Pixelforge Software,0,0
+INV-100798,2025-05-29,Skyroute-Travels,hotel stay client visit,174.75,Travel,Skyroute Travels,0,0
+INV-100355,2025-02-16,Brightoffice Supplies,office desk accessories,88.08,Office Supplies,Brightoffice Supplies,0,0
+INV-100077,2025-08-26,deskmate stationers Ltd.,office desk accessories,64.65,Office Supplies,Deskmate Stationers,0,0
+INV-100084,2025-02-27,BRIGHTOFFICE SUPPLIES Pvt Ltd,office desk accessories,89.27,Office Supplies,Brightoffice Supplies,0,0
+INV-100333,2025-10-05,BRANDPEAK MARKETING Pvt Ltd,marketing retainer,780.64,Professional Services,Brandpeak Marketing,0,0
+INV-100082,2025-03-04,skyroute travels Pvt Ltd,airport cab fare,469.51,Travel,Skyroute Travels,0,0
+INV-100433,2025-10-20,paperline traders Pvt Ltd,stationery order,37.73,Office Supplies,Paperline Traders,0,0
+INV-100657,2025-02-12,staywell hotelsLtd.,flight booking,288.89,Travel,Staywell Hotels,0,0
+INV-100457,2025-04-09,Pixelforge-Software Pvt Ltd,annual software license,67.33,Software & Subscriptions,Pixelforge Software,0,0
+INV-900007,2025-08-17,Ledgerwise Consultants,legal consultation fee,765.21,Professional Services,Ledgerwise Consultants,1,0
+INV-100613,2025-11-07,NETLINK BROADBAND Inc,electricity bill,141.51,Utilities,Netlink Broadband,0,0
+INV-100478,2025-07-29,Deskmate Stationers Co.,stationery order,39.38,Office Supplies,Deskmate Stationers,0,0
+INV-100323,2025-05-23,LEXA LEGAL ASSOCIATES,legal consultation fee,701.39,Professional Services,Lexa Legal Associates,0,0
+INV-100005,2025-09-17,aquaflow services,water charges,89.58,Utilities,Aquaflow Services,0,0
+INV-100462,2025-10-12,brightoffice supplies Inc,printer paper and toner,76.34,Office Supplies,Brightoffice Supplies,0,0
+INV-100104,2025-11-06,Cloudnest-Systems,monthly saas subscription,190.72,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100097,2025-06-21,pixelforge software Pvt Ltd,monthly saas subscription,95.52,Software & Subscriptions,Pixelforge Software,0,0
+INV-100309,2025-04-11,brandpeak marketing Ltd.,audit and tax advisory,513.95,Professional Services,Brandpeak Marketing,0,0
+INV-100424,2025-06-25,Brandpeak Marketing,marketing retainer,563.67,Professional Services,Brandpeak Marketing,0,0
+INV-100411,2025-07-03,Netlink Broadband,electricity bill,74.08,Utilities,Netlink Broadband,0,0
+INV-100939,2025-11-04,LEXA LEGAL ASSOCIATES,audit and tax advisory,1025.03,Professional Services,Lexa Legal Associates,0,0
+INV-100281,2025-11-03,Netlink  Broadband,internet broadband bill,94.94,Utilities,Netlink Broadband,0,0
+INV-100266,2025-08-08,Aquaflow Services Ltd.,internet broadband bill,107.55,Utilities,Aquaflow Services,0,0
+INV-100481,2025-03-10,Brandpeak Marketing Co.,marketing retainer,822.88,Professional Services,Brandpeak Marketing,0,0
+INV-100679,2025-05-15,Datawave-Analytics Pvt Ltd,annual software license,145.36,Software & Subscriptions,Datawave Analytics,0,0
+INV-100595,2025-04-08,DESKMATE STATIONERS,stationery order,57.93,Office Supplies,Deskmate Stationers,0,0
+INV-100989,2025-06-16,Pixelforge  Software Ltd.,annual software license,68.54,Software & Subscriptions,Pixelforge Software,0,0
+INV-100929,2025-09-20,PAPERLINE TRADERS LLC,printer paper and toner,71.12,Office Supplies,Paperline Traders,0,0
+INV-100848,2025-11-17,Brandpeak-Marketing,marketing retainer,561.73,Professional Services,Brandpeak Marketing,0,0
+INV-100118,2025-10-07,DESKMATE STATIONERS Pvt Ltd,stationery order,91.58,Office Supplies,Deskmate Stationers,0,0
+INV-100712,2025-02-04,Powergrid Utilities Co.,internet broadband bill,92.74,Utilities,Powergrid Utilities,0,0
+INV-100250,2025-08-04,AQUAFLOW SERVICES,electricity bill,90.29,Utilities,Aquaflow Services,0,0
+INV-100668,2025-04-06,Pixelforge Software Ltd.,monthly saas subscription,63.83,Software & Subscriptions,Pixelforge Software,0,0
+INV-100552,2025-11-07,netlink broadband Ltd.,internet broadband bill,77.4,Utilities,Netlink Broadband,0,0
+INV-100380,2025-01-08,cloudnest systems Co.,monthly saas subscription,84.45,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100009,2025-09-29,Lexa-Legal-Associates,audit and tax advisory,802.85,Professional Services,Lexa Legal Associates,0,0
+INV-100371,2025-05-01,ROADRUNNER CABS Ltd.,airport cab fare,397.75,Travel,Roadrunner Cabs,0,0
+INV-100196,2025-09-30,Staywell  Hotels Inc,airport cab fare,308.62,Travel,Staywell Hotels,0,0
+INV-100643,2025-09-28,PIXELFORGE SOFTWARE,monthly saas subscription,5.0,Software & Subscriptions,Pixelforge Software,0,0
+INV-100081,2025-05-18,brandpeak marketing Pvt Ltd,audit and tax advisory,748.4,Professional Services,Brandpeak Marketing,0,0
+INV-100432,2025-07-01,roadrunner cabs Pvt Ltd,hotel stay client visit,288.52,Travel,Roadrunner Cabs,0,0
+INV-100527,2025-02-17,Roadrunner Cabs Inc,flight booking,199.72,Travel,Roadrunner Cabs,0,0
+INV-100756,2025-04-12,Roadrunner Cabs Pvt Ltd,airport cab fare,280.26,Travel,Roadrunner Cabs,0,0
+INV-100239,2025-08-10,Aquaflow  Services,internet broadband bill,116.71,Utilities,Aquaflow Services,0,0
+INV-100703,2025-11-05,DATAAVE ANALYTICS Co.,annual software license,147.1,Software & Subscriptions,Datawave Analytics,0,0
+INV-100211,2025-06-26,Skyroute Travels Co.,flight booking,511.83,Travel,Skyroute Travels,0,0
+INV-100762,2025-04-23,STAYWELL HOTELS Ltd.,hotel stay client visit,514.85,Travel,Staywell Hotels,0,0
+INV-100413,2025-09-29,BRIGHTOFFICE SUPPLIES LLC,printer paper and toner,68.96,Office Supplies,Brightoffice Supplies,0,0
+INV-100513,2025-11-21,Datawave Analytics Co.,monthly saas subscription,165.44,Software & Subscriptions,Datawave Analytics,0,0
+INV-100227,2025-07-14,Aquaflow Services LLC,electricity bill,73.22,Utilities,Aquaflow Services,0,0
+INV-100909,2025-11-13,skyroute travels,flight booking,355.95,Travel,Skyroute Travels,0,0
+INV-100425,2025-01-10,BRANDPEAK MARKETING,marketing retainer,582.64,Professional Services,Brandpeak Marketing,0,0
+INV-100844,2025-03-31,Staywell  Hotels Inc,hotel stay client visit,148.47,Travel,Staywell Hotels,0,0
+INV-100177,2025-02-27,Aquaflow-Services Co.,internet broadband bill,76.12,Utilities,Aquaflow Services,0,0
+INV-100992,2025-05-08,SKYROUTE TRAVELS Co.,airport cab fare,332.04,Travel,Skyroute Travels,0,0
+INV-100449,2025-11-13,Staywell Hotels,flight booking,318.07,Travel,Staywell Hotels,0,0
+INV-100525,2025-10-21,Datawave Analytics Ltd.,annual software license,174.03,Software & Subscriptions,Datawave Analytics,0,0
+INV-100526,2025-09-14,datawave analytics LLC,annual software license,120.48,Software & Subscriptions,Datawave Analytics,0,0
+INV-100536,2025-08-27,Skyroute Travels LLC,airport cab fare,303.38,Travel,Skyroute Travels,0,0
+INV-100423,2025-01-02,Deskmate-Stationers LLC,printer paper and toner,381.3,Office Supplies,Deskmate Stationers,0,1
+INV-100007,2025-05-03,Skyroute Travels Pvt Ltd,airport cab fare,405.56,Travel,Skyroute Travels,0,0
+INV-100155,2025-09-23,pixelforge software Inc,monthly saas subscription,61.46,Software & Subscriptions,Pixelforge Software,0,0
+INV-100576,2025-07-10,brightoffice supplies,office desk accessories,79.38,Office Supplies,Brightoffice Supplies,0,0
+INV-100884,2025-02-12,Deskmate Stationers,printer paper and toner,5.0,Office Supplies,Deskmate Stationers,0,0
+INV-100329,2025-09-21,papeline traders Co.,office desk accessories,68.61,Office Supplies,Paperline Traders,0,0
+INV-100531,2025-01-06,brightoffice supplies Co.,stationery order,95.95,Office Supplies,Brightoffice Supplies,0,0
+INV-100822,2025-06-01,STAYWELL HOTELS Ltd.,flight booking,120.83,Travel,Staywell Hotels,0,0
+INV-100825,2025-09-06,PAPERLINE TRADERS,stationery order,85.81,Office Supplies,Paperline Traders,0,0
+INV-100603,2025-10-07,PAPERLINE TRADERS,office desk accessories,43.34,Office Supplies,Paperline Traders,0,0
+INV-100828,2025-01-21,Deskmate-Stationers Co.,printer paper and toner,70.48,Office Supplies,Deskmate Stationers,0,0
+INV-100615,2025-02-03,Brandpeak Marketing Pvt Ltd,legal consultation fee,3589.22,Professional Services,Brandpeak Marketing,0,1
+INV-100991,2025-03-13,Pixelforg-Software,cloud hosting fee,49.3,Software & Subscriptions,Pixelforge Software,0,0
+INV-100604,2025-06-21,Cloudnest  Systems Co.,monthly saas subscription,633.63,Software & Subscriptions,Cloudnest Systems,0,1
+INV-100477,2025-04-14,Brightoffice Supplies,stationery order,55.1,Office Supplies,Brightoffice Supplies,0,0
+INV-100808,2025-06-03,Netlink Broadband Inc,internet broadband bill,139.01,Utilities,Netlink Broadband,0,0
+INV-100620,2025-07-09,cloudnest systems Inc,monthly saas subscription,166.3,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100752,2025-02-25,Brightoffice-Supplies Ltd.,office desk accessories,54.57,Office Supplies,Brightoffice Supplies,0,0
+INV-100904,2025-10-19,Aquaflow Services Pvt Ltd,internet broadband bill,157.77,Utilities,Aquaflow Services,0,0
+INV-100163,2025-08-04,Paperline  Traders,printer paper and toner,24.85,Office Supplies,Paperline Traders,0,0
+INV-100228,2025-02-12,roadrunner cabs Inc,flight booking,354.32,Travel,Roadrunner Cabs,0,0
+INV-100864,2025-04-21,PIXELFORGE SOFTWARE Ltd.,monthly saas subscription,111.28,Software & Subscriptions,Pixelforge Software,0,0
+INV-100978,2025-08-25,Lexa  Legal  Associates Ltd.,legal consultation fee,569.49,Professional Services,Lexa Legal Associates,0,0
+INV-100212,2025-03-08,Brightoffic-Supplies,printer paper and toner,566.73,Office Supplies,Brightoffice Supplies,0,1
+INV-100079,2025-07-12,staywell hotels LLC,hotel stay client visit,293.67,Travel,Staywell Hotels,0,0
+INV-100148,2025-06-14,Cloudnest Systems Pvt Ltd,cloud hosting fee,92.16,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100302,2025-03-26,paperline traders Inc,office desk accessories,81.34,Office Supplies,Paperline Traders,0,0
+INV-100388,2025-05-18,Paperline  Trders,printer paper and toner,58.64,Office Supplies,Paperline Traders,0,0
+INV-100518,2025-09-29,staywell hotels Pvt Ltd,hotel stay client visit,401.4,Travel,Staywell Hotels,0,0
+INV-100541,2025-07-16,branpeak marketing,legal consultation fee,933.03,Professional Services,Brandpeak Marketing,0,0
+INV-100889,2025-10-16,powergrid utilities Ltd.,electricity bill,84.93,Utilities,Powergrid Utilities,0,0
+INV-100043,2025-07-04,paperline traders LLC,stationery order,75.87,Office Supplies,Paperline Traders,0,0
+INV-100390,2025-08-24,Pixelforge-Software Ltd.,cloud hosting fee,882.63,Software & Subscriptions,Pixelforge Software,0,1
+INV-100133,2025-06-15,skyroute travels Ltd.,airport cab fare,302.02,Travel,Skyroute Travels,0,0
+INV-100715,2025-08-01,Roadrunner Cabs Inc,flight booking,365.23,Travel,Roadrunner Cabs,0,0
+INV-100311,2025-07-29,Staywell Hoels,airport cab fare,354.53,Travel,Staywell Hotels,0,0
+INV-100490,2025-03-17,ledgerwise consultants,marketing retainer,678.84,Professional Services,Ledgerwise Consultants,0,0
+INV-100999,2025-04-07,SKYROUTE TRAVELS LLC,flight booking,381.96,Travel,Skyroute Travels,0,0
+INV-100696,2025-01-22,ROADRUNNER CABS LLC,airport cab fare,319.49,Travel,Roadrunner Cabs,0,0
+INV-100836,2025-03-13,Deskmate Stationers LLC,office desk accessories,71.41,Office Supplies,Deskmate Stationers,0,0
+INV-100000,2025-08-05,Cloudnest Systems,cloud hosting fee,132.19,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100493,2025-08-14,BRIGHTOFFICE SUPPLIES,stationery order,89.22,Office Supplies,Brightoffice Supplies,0,0
+INV-100382,2025-05-10,cloudnest systems Pvt Ltd,annual software license,122.05,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100316,2025-02-18,roadrunner cabs Inc,flight booking,533.1,Travel,Roadrunner Cabs,0,0
+INV-100765,2025-09-29,ROADRUNER CABS Ltd.,hotel stay client visit,291.06,Travel,Roadrunner Cabs,0,0
+INV-100583,2025-11-12,Powergrid  Utilities Co.,water charges,65.45,Utilities,Powergrid Utilities,0,0
+INV-100865,2025-09-03,deskmate stationers Inc,printer paper and toner,16.59,Office Supplies,Deskmate Stationers,0,0
+INV-100567,2025-09-21,DESKMATE STATIONERS Ltd.,printer paper and toner,53.47,Office Supplies,Deskmate Stationers,0,0
+INV-100990,2025-06-25,paperline traders Co.,stationery order,32.79,Office Supplies,Paperline Traders,0,0
+INV-100428,2025-06-22,Brightoffice-Supplies,printer paper and toner,11.74,Office Supplies,Brightoffice Supplies,0,0
+INV-100172,2025-07-17,Netlink Broadband Ltd.,water charges,109.43,Utilities,Netlink Broadband,0,0
+INV-100125,2025-03-28,Netlink Broadband Ltd.,internet broadband bill,59.39,Utilities,Netlink Broadband,0,0
+INV-100453,2025-04-18,Lexa Legal Associates Ltd.,legal consultation fee,806.05,Professional Services,Lexa Legal Associates,0,0
+INV-100482,2025-03-18,Pixelforge-Software Co.,cloud hosting fee,111.14,Software & Subscriptions,Pixelforge Software,0,0
+INV-100588,2025-01-19,Brandpeak  Marketing,legal consultation fee,610.47,Professional Services,Brandpeak Marketing,0,0
+INV-900009,2025-04-12,Paperline Traders,printer paper and toner,30.46,Office Supplies,Paperline Traders,1,0
+INV-100090,2025-06-04,Powergrid  Utilities Co.,electricity bill,64.61,Utilities,Powergrid Utilities,0,0
+INV-100996,2025-02-02,roadrunner abs,airport cab fare,550.56,Travel,Roadrunner Cabs,0,0
+INV-100181,2025-06-16,skyroute travels Inc,flight booking,320.01,Travel,Skyroute Travels,0,0
+INV-100363,2025-04-07,CLOUDNEST SYSTEMS Inc,annual software license,98.45,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100274,2025-10-28,Paperline Tradrs,printer paper and toner,70.42,Office Supplies,Paperline Traders,0,0
+INV-100949,2025-07-07,Powergrid  Utilitis Ltd.,internet broadband bill,96.4,Utilities,Powergrid Utilities,0,0
+INV-100069,2025-08-25,DESKMATE STATIONERS Ltd.,printer paper and toner,41.33,Office Supplies,Deskmate Stationers,0,0
+INV-100291,2025-01-18,LEDGERWISE CONSULTANTS Inc,legal consultation fee,3809.81,Professional Services,Ledgerwise Consultants,0,1
+INV-100131,2025-04-13,Brightoffice  Supplies Ltd.,office desk accessories,72.87,Office Supplies,Brightoffice Supplies,0,0
+INV-100300,2025-06-28,Brightoffice  Supplies Ltd.,printer paper and toner,86.41,Office Supplies,Brightoffice Supplies,0,0
+INV-100507,2025-10-09,Netlink  Broadband LLC,water charges,134.94,Utilities,Netlink Broadband,0,0
+INV-100326,2025-02-12,netlink broadband LLC,electricity bill,92.29,Utilities,Netlink Broadband,0,0
+INV-100144,2025-11-18,ledgerwise consultants,audit and tax advisory,593.48,Professional Services,Ledgerwise Consultants,0,0
+INV-100485,2025-10-12,ROADRUNNER CABS,hotel stay client visit,318.67,Travel,Roadrunner Cabs,0,0
+INV-100843,2025-11-04,powergrid utilities Co.,electricity bill,85.71,Utilities,Powergrid Utilities,0,0
+INV-100849,2025-04-25,Cloudnest Systems LLC,annual software license,118.46,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100135,2025-03-17,Powergrid Utilities Pvt Ltd,water charges,92.26,Utilities,Powergrid Utilities,0,0
+INV-100467,2025-03-03,Lexa  Legal  Associates,legal consultation fee,873.98,Professional Services,Lexa Legal Associates,0,0
+INV-100164,2025-06-25,netlink broadband Ltd.,water charges,53.32,Utilities,Netlink Broadband,0,0
+INV-100028,2025-05-24,Cloudnes Systems,monthly saas subscription,93.38,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100598,2025-04-28,DESKMATE STATIONERS Co.,office desk accessories,37.78,Office Supplies,Deskmate Stationers,0,0
+INV-100193,2025-11-20,BRIGHTOFFICE SUPPLIES Ltd.,stationery order,260.67,Office Supplies,Brightoffice Supplies,0,1
+INV-100445,2025-03-08,roadrunner cas LLC,airport cab fare,355.13,Travel,Roadrunner Cabs,0,0
+INV-100678,2025-08-18,aquaflow services LLC,internet broadband bill,71.77,Utilities,Aquaflow Services,0,0
+INV-100584,2025-06-06,Aquaflow Services,internet broadband bill,53.94,Utilities,Aquaflow Services,0,0
+INV-100169,2025-07-16,Roadrunner  Cabs Pvt Ltd,airport cab fare,357.57,Travel,Roadrunner Cabs,0,0
+INV-100535,2025-06-26,BRIGHTOFFICE SUPPLIES Ltd.,printer paper and toner,38.35,Office Supplies,Brightoffice Supplies,0,0
+INV-100140,2025-01-09,brightoffice supplies LLC,office desk accessories,53.32,Office Supplies,Brightoffice Supplies,0,0
+INV-100173,2025-02-24,Cloudnest  Systems Pvt Ltd,monthly saas subscription,104.95,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100006,2025-06-15,cloudnest systems Inc,cloud hosting fee,85.88,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100682,2025-08-30,DESKMATE STATIONERS,office desk accessories,52.5,Office Supplies,Deskmate Stationers,0,0
+INV-100529,2025-06-17,Datawae Analytics LLC,annual software license,67.89,Software & Subscriptions,Datawave Analytics,0,0
+INV-100692,2025-11-13,POWERGRID UTILITIES LLC,water charges,100.25,Utilities,Powergrid Utilities,0,0
+INV-100073,2025-03-08,SKYROUTE TRAVELS Inc,airport cab fare,367.79,Travel,Skyroute Travels,0,0
+INV-100898,2025-06-12,BRIGHTOFFICE SUPPLIES Inc,office desk accessories,74.84,Office Supplies,Brightoffice Supplies,0,0
+INV-900016,2025-04-15,BRANDPEAK MARKETING Pvt Ltd,marketing retainer,818.39,Professional Services,Brandpeak Marketing,1,0
+INV-100238,2025-03-10,CloudnestSystems,monthly saas subscription,97.16,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100145,2025-04-10,Powergrid-Utilities Inc,internet broadband bill,115.07,Utilities,Powergrid Utilities,0,0
+INV-100905,2025-07-29,Powergrid Utilities Ltd.,internet broadband bill,70.05,Utilities,Powergrid Utilities,0,0
+INV-100234,2025-10-06,LEDGERWISE CONSULTANTS Inc,audit and tax advisory,569.96,Professional Services,Ledgerwise Consultants,0,0
+INV-100220,2025-06-22,Datawave Analytics Co.,annual software license,799.3,Software & Subscriptions,Datawave Analytics,0,1
+INV-100214,2025-01-24,Lexa Legal Associates,legal consultation fee,714.64,Professional Services,Lexa Legal Associates,0,0
+INV-100962,2025-02-23,Pixelforge Software,monthly saas subscription,83.54,Software & Subscriptions,Pixelforge Software,0,0
+INV-100132,2025-06-14,Ledgerwise Consultants Co.,legal consultation fee,613.19,Professional Services,Ledgerwise Consultants,0,0
+INV-900038,2025-06-16,cloudnest systems Co.,cloud hosting fee,99.45,Software & Subscriptions,Cloudnest Systems,1,0
+INV-100616,2025-07-23,lexa legal associates Ltd.,legal consultation fee,463.23,Professional Services,Lexa Legal Associates,0,0
+INV-100845,2025-05-29,staywell hotels,hotel stay client visit,486.85,Travel,Staywell Hotels,0,0
+INV-100422,2025-05-27,Aquaflow  Services,water charges,78.98,Utilities,Aquaflow Services,0,0
+INV-100185,2025-07-08,Pixelforge Software Ltd.,monthly saas subscription,135.43,Software & Subscriptions,Pixelforge Software,0,0
+INV-100041,2025-09-10,Powergrid Utilities,internet broadband bill,94.07,Utilities,Powergrid Utilities,0,0
+INV-100650,2025-10-01,Pixelforge Software Inc,annual software license,136.32,Software & Subscriptions,Pixelforge Software,0,0
+INV-100108,2025-06-30,BIGHTOFFICE SUPPLIES Ltd.,printer paper and toner,45.5,Office Supplies,Brightoffice Supplies,0,0
+INV-100716,2025-06-02,CLOUDNEST SYSTEMS,monthly saas subscription,124.73,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100056,2025-08-18,Staywell Hotels Co.,flight booking,188.46,Travel,Staywell Hotels,0,0
+INV-100707,2025-04-21,Powergrid  Utilities Pvt Ltd,electricity bill,68.52,Utilities,Powergrid Utilities,0,0
+INV-900003,2025-08-22,Cloudnest Systems Pvt Ltd,monthly saas subscription,98.88,Software & Subscriptions,Cloudnest Systems,1,0
+INV-100993,2025-03-07,Deskmate  Sationers Ltd.,stationery order,59.73,Office Supplies,Deskmate Stationers,0,0
+INV-100913,2025-11-05,AQUAFLOW SERVICES Ltd.,water charges,57.7,Utilities,Aquaflow Services,0,0
+INV-100435,2025-04-23,Netlink-Broadband Ltd.,water charges,52.64,Utilities,Netlink Broadband,0,0
+INV-100024,2025-08-15,Staywell Hotels Pvt Ltd,hotel stay client visit,307.47,Travel,Staywell Hotels,0,0
+INV-100479,2025-05-07,Powergrid-Utilities,electricity bill,116.23,Utilities,Powergrid Utilities,0,0
+INV-100582,2025-01-08,LEXA LEGAL ASSOCIATES,audit and tax advisory,273.87,Professional Services,Lexa Legal Associates,0,0
+INV-900006,2025-08-16,Deskmate Stationers Inc,printer paper and toner,91.58,Office Supplies,Deskmate Stationers,1,0
+INV-100670,2025-02-26,Roadrunner Cabs Co.,airport cab fare,1772.2,Travel,Roadrunner Cabs,0,1
+INV-100891,2025-06-03,Roadrunner-Cabs LLC,airport cab fare,450.95,Travel,Roadrunner Cabs,0,0
+INV-100983,2025-10-10,Powergrid Utilities,water charges,92.27,Utilities,Powergrid Utilities,0,0
+INV-100338,2025-08-22,Aquaflow  Servies Ltd.,water charges,325.99,Utilities,Aquaflow Services,0,1
+INV-100051,2025-07-03,brandpeak marketing Inc,marketing retainer,734.88,Professional Services,Brandpeak Marketing,0,0
+INV-100383,2025-02-28,Roadrunner Cabs Pvt Ltd,flight booking,419.02,Travel,Roadrunner Cabs,0,0
+INV-100549,2025-05-19,Aquaflow  Services,electricity bill,95.43,Utilities,Aquaflow Services,0,0
+INV-900014,2025-04-17,Skyroute Travels Ltd.,airport cab fare,241.64,Travel,Skyroute Travels,1,0
+INV-100673,2025-09-01,Brandpeak  Marketing Inc,legal consultation fee,675.86,Professional Services,Brandpeak Marketing,0,0
+INV-100981,2025-09-15,Roadrunner  Cabs,flight booking,481.39,Travel,Roadrunner Cabs,0,0
+INV-100264,2025-08-14,Datawave-Analytics,annual software license,122.17,Software & Subscriptions,Datawave Analytics,0,0
+INV-100572,2025-07-27,Powergrid Utilities Pvt Ltd,electricity bill,87.67,Utilities,Powergrid Utilities,0,0
+INV-100755,2025-10-18,Brandpeak-Marketing Ltd.,marketing retainer,949.41,Professional Services,Brandpeak Marketing,0,0
+INV-100950,2025-08-06,Aquaflow Services,water charges,106.29,Utilities,Aquaflow Services,0,0
+INV-100444,2025-04-26,Cloudnest  Systems,cloud hosting fee,75.85,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100395,2025-11-14,Paperline-Traders Pvt Ltd,printer paper and toner,54.12,Office Supplies,Paperline Traders,0,0
+INV-100551,2025-09-20,netlink broadband Ltd.,water charges,96.32,Utilities,Netlink Broadband,0,0
+INV-100176,2025-03-06,NETLINK BROADBAND Inc,internet broadband bill,83.34,Utilities,Netlink Broadband,0,0
+INV-100018,2025-06-30,netlink broadband,electricity bill,99.14,Utilities,Netlink Broadband,0,0
+INV-100760,2025-02-02,Lexa Legal Associates Pvt Ltd,marketing retainer,5177.38,Professional Services,Lexa Legal Associates,0,1
+INV-100532,2025-05-09,datawave analytics,cloud hosting fee,155.77,Software & Subscriptions,Datawave Analytics,0,0
+INV-100605,2025-02-24,Paperline  Traders Co.,stationery order,60.77,Office Supplies,Paperline Traders,0,0
+INV-100618,2025-03-03,LEXA LEGAL ASSOCIATES Inc,marketing retainer,822.23,Professional Services,Lexa Legal Associates,0,0
+INV-100367,2025-10-06,staywell hotels Co.,hotel stay client visit,347.24,Travel,Staywell Hotels,0,0
+INV-100083,2025-04-19,aquaflow services,internet broadband bill,98.92,Utilities,Aquaflow Services,0,0
+INV-100061,2025-05-06,cloudnest systems,annual software license,103.07,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100499,2025-02-15,brandpeak marketing LLC,marketing retainer,761.19,Professional Services,Brandpeak Marketing,0,0
+INV-100272,2025-09-24,Lexa-Legal-Associates LLC,legal consultation fee,743.29,Professional Services,Lexa Legal Associates,0,0
+INV-100285,2025-07-27,Cloudnest Systems Inc,annual software license,86.5,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100360,2025-03-22,Datawave  Analytics Ltd.,cloud hosting fee,82.36,Software & Subscriptions,Datawave Analytics,0,0
+INV-100354,2025-08-03,Cloudnest-Systems Co.,annual software license,173.43,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100938,2025-03-05,Roadrunner Cabs Inc,hotel stay client visit,219.26,Travel,Roadrunner Cabs,0,0
+INV-100278,2025-04-05,Deskmate-Stationers Co.,stationery order,30.36,Office Supplies,Deskmate Stationers,0,0
+INV-100012,2025-04-02,Datawave-Analytics Pvt Ltd,monthly saas subscription,155.14,Software & Subscriptions,Datawave Analytics,0,0
+INV-100182,2025-06-27,Ledgerwise  Consultants Co.,legal consultation fee,541.26,Professional Services,Ledgerwise Consultants,0,0
+INV-100368,2025-05-15,Staywell  Hotels,airport cab fare,300.29,Travel,Staywell Hotels,0,0
+INV-100636,2025-05-06,skyroute travels Inc,airport cab fare,423.43,Travel,Skyroute Travels,0,0
+INV-100655,2025-04-03,Roadrunner Cabs Co.,flight booking,238.36,Travel,Roadrunner Cabs,0,0
+INV-100223,2025-09-22,Pixelforge-Software,cloud hosting fee,180.45,Software & Subscriptions,Pixelforge Software,0,0
+INV-100740,2025-01-08,Powergrid Utilities Ltd.,electricity bill,73.6,Utilities,Powergrid Utilities,0,0
+INV-100743,2025-08-29,Powergrid Utilities Co.,electricity bill,114.34,Utilities,Powergrid Utilities,0,0
+INV-100720,2025-05-01,PAPERLNE TRADERS Ltd.,printer paper and toner,47.11,Office Supplies,Paperline Traders,0,0
+INV-100581,2025-02-23,Roadunner  Cabs,flight booking,366.75,Travel,Roadrunner Cabs,0,0
+INV-100486,2025-04-01,Brandpeak  Marketing Pvt Ltd,audit and tax advisory,653.65,Professional Services,Brandpeak Marketing,0,0
+INV-100542,2025-10-04,Datawave Analytics Inc,annual software license,161.03,Software & Subscriptions,Datawave Analytics,0,0
+INV-100465,2025-09-26,cloudnest systems,annual software license,99.97,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100621,2025-10-16,ROADRUNNER CABS,flight booking,214.08,Travel,Roadrunner Cabs,0,0
+INV-100495,2025-11-04,AQUAFLOW SERVICES Pvt Ltd,water charges,61.5,Utilities,Aquaflow Services,0,0
+INV-100820,2025-08-19,Datawave-Analytics,monthly saas subscription,91.46,Software & Subscriptions,Datawave Analytics,0,0
+INV-100667,2025-10-07,NETLINK BROADBAND Co.,internet broadband bill,105.8,Utilities,Netlink Broadband,0,0
+INV-100456,2025-01-09,Datawave Analyics Inc,monthly saas subscription,130.89,Software & Subscriptions,Datawave Analytics,0,0
+INV-100393,2025-09-09,Paperline  Traders LLC,office desk accessories,67.27,Office Supplies,Paperline Traders,0,0
+INV-100675,2025-08-26,Staywell-Hotels Ltd.,flight booking,333.33,Travel,Staywell Hotels,0,0
+INV-100713,2025-06-08,Pixelforge-Software LLC,annual software license,64.91,Software & Subscriptions,Pixelforge Software,0,0
+INV-100375,2025-10-09,Brandpeak  Marketng,legal consultation fee,680.84,Professional Services,Brandpeak Marketing,0,0
+INV-100412,2025-05-27,DATAWAVE ANALYTICS Pvt Ltd,monthly saas subscription,141.65,Software & Subscriptions,Datawave Analytics,0,0
+INV-100074,2025-06-30,Cloudnest  Systems Inc,annual software license,129.51,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100934,2025-04-03,DESKMATE STATIONERS Pvt Ltd,stationery order,56.71,Office Supplies,Deskmate Stationers,0,0
+INV-100500,2025-11-04,pixelforge software LLC,cloud hosting fee,126.32,Software & Subscriptions,Pixelforge Software,0,0
+INV-100596,2025-09-12,Paperline-Traders Pvt Ltd,stationery order,59.44,Office Supplies,Paperline Traders,0,0
+INV-100114,2025-03-01,Paperline-Traders Inc,office desk accessories,46.9,Office Supplies,Paperline Traders,0,0
+INV-100417,2025-08-24,ROADRUNNER CABS Pvt Ltd,flight booking,369.1,Travel,Roadrunner Cabs,0,0
+INV-100089,2025-01-08,PIXELFORGE SOFTWARE Co.,cloud hosting fee,61.17,Software & Subscriptions,Pixelforge Software,0,0
+INV-100976,2025-01-06,ledgerwise consultants LLC,marketing retainer,8573.36,Professional Services,Ledgerwise Consultants,0,1
+INV-100919,2025-05-27,pixelforge software Ltd.,monthly saas subscription,1020.3,Software & Subscriptions,Pixelforge Software,0,1
+INV-100846,2025-04-07,DATAWAVE ANALYTICS Co.,monthly saas subscription,88.12,Software & Subscriptions,Datawave Analytics,0,0
+INV-100731,2025-01-23,Aquaflow Services,internet broadband bill,86.22,Utilities,Aquaflow Services,0,0
+INV-100011,2025-07-03,skyroute travels,hotel stay client visit,214.52,Travel,Skyroute Travels,0,0
+INV-100396,2025-01-25,Ledgerwise  Consultnts Inc,legal consultation fee,464.13,Professional Services,Ledgerwise Consultants,0,0
+INV-100568,2025-05-23,LEDGERWISE CONSULTANTS Ltd.,legal consultation fee,1014.05,Professional Services,Ledgerwise Consultants,0,0
+INV-100042,2025-01-30,Cloudnest-Systems Pvt Ltd,monthly saas subscription,143.45,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100167,2025-09-27,Ledgerwise Consultants Inc,marketing retainer,11311.81,Professional Services,Ledgerwise Consultants,0,1
+INV-100416,2025-09-09,Deskmate Stationers Ltd.,stationery order,64.71,Office Supplies,Deskmate Stationers,0,0
+INV-100803,2025-08-02,aquaflow services Co.,internet broadband bill,105.32,Utilities,Aquaflow Services,0,0
+INV-100426,2025-07-21,Lexa  Legal  Associates Co.,audit and tax advisory,609.44,Professional Services,Lexa Legal Associates,0,0
+INV-100935,2025-04-30,NETLINK BROADBAND Ltd.,internet broadband bill,92.35,Utilities,Netlink Broadband,0,0
+INV-900020,2025-09-07,Powergrid Utilities LLC,water charges,50.98,Utilities,Powergrid Utilities,1,0
+INV-100728,2025-05-13,BRANDPEAK MARKETING Ltd.,marketing retainer,990.18,Professional Services,Brandpeak Marketing,0,0
+INV-100652,2025-04-05,ROADRUNNER CABS Pvt Ltd,airport cab fare,209.74,Travel,Roadrunner Cabs,0,0
+INV-100257,2025-01-05,brandpeak marketing Pvt Ltd,marketing retainer,988.1,Professional Services,Brandpeak Marketing,0,0
+INV-100335,2025-04-21,CLOUDNEST SYSTEMS Ltd.,annual software license,107.65,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100015,2025-11-17,SKYROUTE TRAVELS Pvt Ltd,airport cab fare,303.0,Travel,Skyroute Travels,0,0
+INV-100684,2025-09-23,Skyroute Travels Inc,airport cab fare,184.17,Travel,Skyroute Travels,0,0
+INV-100324,2025-11-14,powergrid utilities Pvt Ltd,internet broadband bill,154.94,Utilities,Powergrid Utilities,0,0
+INV-900030,2025-07-18,Roadrunner Cabs LLC,airport cab fare,357.57,Travel,Roadrunner Cabs,1,0
+INV-100222,2025-02-25,NETLINK BROADBAND Ltd.,electricity bill,60.7,Utilities,Netlink Broadband,0,0
+INV-100179,2025-08-13,BRIGHTOFFICE SUPPLIES,office desk accessories,63.11,Office Supplies,Brightoffice Supplies,0,0
+INV-100099,2025-09-30,datawave analytics,annual software license,126.28,Software & Subscriptions,Datawave Analytics,0,0
+INV-100521,2025-01-07,Skyroute Travels Ltd.,flight booking,258.82,Travel,Skyroute Travels,0,0
+INV-100022,2025-01-26,Datawave Analytics Co.,cloud hosting fee,87.45,Software & Subscriptions,Datawave Analytics,0,0
+INV-100356,2025-04-19,skyroute travels Pvt Ltd,airport cab fare,271.32,Travel,Skyroute Travels,0,0
+INV-100750,2025-05-11,Deskmate-Stationers Ltd.,office desk accessories,86.07,Office Supplies,Deskmate Stationers,0,0
+INV-100914,2025-01-02,powergrid utilities LLC,internet broadband bill,98.82,Utilities,Powergrid Utilities,0,0
+INV-900023,2025-08-25,ROADRUNNER CABS Co.,flight booking,369.1,Travel,Roadrunner Cabs,1,0
+INV-100340,2025-03-21,Staywell Hotels Inc,flight booking,418.47,Travel,Staywell Hotels,0,0
+INV-100431,2025-07-14,Datawave  Analytics Co.,monthly saas subscription,107.58,Software & Subscriptions,Datawave Analytics,0,0
+INV-100587,2025-03-08,Roadruner Cabs,airport cab fare,172.36,Travel,Roadrunner Cabs,0,0
+INV-100885,2025-05-18,Brandpeak Marketing Co.,audit and tax advisory,440.4,Professional Services,Brandpeak Marketing,0,0
+INV-100203,2025-05-18,BRIGHTOFFICE SUPPLIES Co.,office desk accessories,94.55,Office Supplies,Brightoffice Supplies,0,0
+INV-100780,2025-03-01,brightoffice supplies,office desk accessories,48.77,Office Supplies,Brightoffice Supplies,0,0
+INV-100093,2025-06-11,Powergrid Utilities LLC,electricity bill,100.36,Utilities,Powergrid Utilities,0,0
+INV-100594,2025-02-14,netlink broadband,water charges,89.69,Utilities,Netlink Broadband,0,0
+INV-100068,2025-03-28,POWERGRID UTILITIES Inc,water charges,81.09,Utilities,Powergrid Utilities,0,0
+INV-100662,2025-08-06,deskmate stationers LLC,office desk accessories,51.75,Office Supplies,Deskmate Stationers,0,0
+INV-100284,2025-06-30,deskmate stationers Pvt Ltd,stationery order,87.07,Office Supplies,Deskmate Stationers,0,0
+INV-100852,2025-10-12,Cloudnest-SystemsLLC,annual software license,123.9,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100434,2025-08-11,SKYROUTE TRAVELS,flight booking,383.75,Travel,Skyroute Travels,0,0
+INV-100153,2025-11-15,Lexa Legal Associates,marketing retainer,1112.91,Professional Services,Lexa Legal Associates,0,0
+INV-100075,2025-02-28,Netlink Broadband,internet broadband bill,53.85,Utilities,Netlink Broadband,0,0
+INV-100777,2025-02-27,Ledgerwise  Consultants Pvt Ltd,legal consultation fee,926.64,Professional Services,Ledgerwise Consultants,0,0
+INV-100446,2025-11-14,Lexa Legal Associates,legal consultation fee,508.81,Professional Services,Lexa Legal Associates,0,0
+INV-100188,2025-01-31,cloudnest systems Inc,cloud hosting fee,75.5,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100271,2025-03-21,Skyroute-Travels Co.,hotel stay client visit,300.24,Travel,Skyroute Travels,0,0
+INV-100236,2025-06-11,SKYROUTE TRAVELS Ltd.,airport cab fare,482.35,Travel,Skyroute Travels,0,0
+INV-100487,2025-06-11,Aquaflow Services Pvt Ltd,electricity bill,50.91,Utilities,Aquaflow Services,0,0
+INV-100559,2025-06-05,Brandpeak Marketing Ltd.,audit and tax advisory,290.39,Professional Services,Brandpeak Marketing,0,0
+INV-100117,2025-11-24,Pixelforge Software Ltd.,annual software license,126.9,Software & Subscriptions,Pixelforge Software,0,0
+INV-100867,2025-06-03,Datawave Analytics LLC,monthly saas subscription,122.42,Software & Subscriptions,Datawave Analytics,0,0
+INV-100512,2025-10-28,Lexa Legal Associates LLC,audit and tax advisory,1150.73,Professional Services,Lexa Legal Associates,0,0
+INV-100589,2025-06-04,CLOUDNEST SYSTEMS Co.,monthly saas subscription,118.14,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100630,2025-04-29,Brandpeak Marketing Pvt Ltd,audit and tax advisory,716.66,Professional Services,Brandpeak Marketing,0,0
+INV-100126,2025-01-11,Aquaflow Services,water charges,55.8,Utilities,Aquaflow Services,0,0
+INV-100116,2025-11-16,Skyroute  Travls Inc,airport cab fare,185.18,Travel,Skyroute Travels,0,0
+INV-100473,2025-02-03,lexa legal associates Pvt Ltd,legal consultation fee,527.87,Professional Services,Lexa Legal Associates,0,0
+INV-100737,2025-05-20,Ledgerwise-Consultants Inc,legal consultation fee,568.86,Professional Services,Ledgerwise Consultants,0,0
+INV-100057,2025-06-02,Ledgerwise Consultants,legal consultation fee,4516.66,Professional Services,Ledgerwise Consultants,0,1
+INV-100718,2025-08-05,Pixelforge Software,annual software license,178.16,Software & Subscriptions,Pixelforge Software,0,0
+INV-100966,2025-09-29,Netlink Brodband Ltd.,water charges,66.78,Utilities,Netlink Broadband,0,0
+INV-100369,2025-08-10,Deskmate Stationers Ltd.,office desk accessories,56.82,Office Supplies,Deskmate Stationers,0,0
+INV-100268,2025-07-25,Staywell Hotels Pvt Ltd,airport cab fare,335.21,Travel,Staywell Hotels,0,0
+INV-100046,2025-11-24,POWERGRID UTILITIES,internet broadband bill,85.22,Utilities,Powergrid Utilities,0,0
+INV-100349,2025-03-10,skyroute travels Pvt Ltd,airport cab fare,357.91,Travel,Skyroute Travels,0,0
+INV-100195,2025-08-01,staywell hotels,hotel stay client visit,287.86,Travel,Staywell Hotels,0,0
+INV-100102,2025-02-09,Staywell-Hotels LLC,airport cab fare,266.51,Travel,Staywell Hotels,0,0
+INV-100886,2025-03-14,BRANDPEAK MARKETING,legal consultation fee,877.01,Professional Services,Brandpeak Marketing,0,0
+INV-100789,2025-10-01,BRIGHTOFFICE SUPPLIES Ltd.,office desk accessories,96.03,Office Supplies,Brightoffice Supplies,0,0
+INV-100783,2025-11-18,STAYWELL HOTELS Co.,airport cab fare,50.4,Travel,Staywell Hotels,0,0
+INV-100263,2025-02-06,Ledgerwise  Consultants,audit and tax advisory,191.78,Professional Services,Ledgerwise Consultants,0,0
+INV-100443,2025-02-14,Datawave Analytics Ltd.,monthly saas subscription,186.72,Software & Subscriptions,Datawave Analytics,0,0
+INV-100945,2025-11-19,CLOUDNEST SYSTEMS,annual software license,167.3,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100304,2025-06-02,datawave analytics,annual software license,135.34,Software & Subscriptions,Datawave Analytics,0,0
+INV-100341,2025-07-18,Staywell  Hotels Inc,flight booking,154.72,Travel,Staywell Hotels,0,0
+INV-100638,2025-10-30,Cloudnest-Systems Co.,cloud hosting fee,155.46,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100313,2025-03-13,Brihtoffice-Supplies LLC,printer paper and toner,18.54,Office Supplies,Brightoffice Supplies,0,0
+INV-100149,2025-01-09,ROADRUNNER CABS Ltd.,airport cab fare,346.67,Travel,Roadrunner Cabs,0,0
+INV-100124,2025-05-06,STAYWELL HOTLS,airport cab fare,4077.92,Travel,Staywell Hotels,0,1
+INV-100833,2025-06-14,Lexa Legal Associates Pvt Ltd,legal consultation fee,719.03,Professional Services,Lexa Legal Associates,0,0
+INV-100872,2025-05-24,NETLINK BROADBAND Co.,electricity bill,79.02,Utilities,Netlink Broadband,0,0
+INV-100050,2025-02-11,Brightoffice  SuppliesPvt Ltd,office desk accessories,73.81,Office Supplies,Brightoffice Supplies,0,0
+INV-100353,2025-07-03,Paperline-Traders LLC,printer paper and toner,42.25,Office Supplies,Paperline Traders,0,0
+INV-100984,2025-05-24,Brightoffice Supplies,printer paper and toner,95.71,Office Supplies,Brightoffice Supplies,0,0
+INV-100142,2025-05-24,Cloudnest-Systems Inc,monthly saas subscription,121.23,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100470,2025-11-05,Skyroute Travels LLC,flight booking,354.55,Travel,Skyroute Travels,0,0
+INV-100399,2025-07-02,LEDGERWISE CONSULTANTS Pvt Ltd,legal consultation fee,751.8,Professional Services,Ledgerwise Consultants,0,0
+INV-100665,2025-04-24,PIXELFORGE SOFTWARE,cloud hosting fee,129.18,Software & Subscriptions,Pixelforge Software,0,0
+INV-100320,2025-07-23,PIXELFORGE SOFTWARE Ltd.,monthly saas subscription,127.41,Software & Subscriptions,Pixelforge Software,0,0
+INV-100019,2025-02-20,LEDGERWISE CONSULTANTS,legal consultation fee,794.78,Professional Services,Ledgerwise Consultants,0,0
+INV-100858,2025-08-05,Roadrunner Cabs Inc,flight booking,489.07,Travel,Roadrunner Cabs,0,0
+INV-100837,2025-03-05,lexa legal associates Inc,legal consultation fee,1041.41,Professional Services,Lexa Legal Associates,0,0
+INV-100876,2025-10-08,Lexa  Legal  Associates LLC,legal consultation fee,554.49,Professional Services,Lexa Legal Associates,0,0
+INV-100407,2025-11-22,SKYROUTE TRAVELS Pvt Ltd,flight booking,346.58,Travel,Skyroute Travels,0,0
+INV-100537,2025-01-17,cloudnest systems Ltd.,monthly saas subscription,69.99,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100660,2025-05-17,BRANDPEAK MARKETING,legal consultation fee,480.06,Professional Services,Brandpeak Marketing,0,0
+INV-100038,2025-05-26,NETLINK BROADBAND Ltd.,electricity bill,127.37,Utilities,Netlink Broadband,0,0
+INV-100175,2025-02-08,Paperline  Traders Inc,office desk accessories,55.24,Office Supplies,Paperline Traders,0,0
+INV-100245,2025-11-05,CLOUDNEST SYSTEMS,annual software license,77.66,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100879,2025-05-04,LEDGERWISE CONSULTANTS Inc,audit and tax advisory,139.84,Professional Services,Ledgerwise Consultants,0,0
+INV-100711,2025-09-03,DATAWAVE ANALYTICS,cloud hosting fee,111.84,Software & Subscriptions,Datawave Analytics,0,0
+INV-100801,2025-01-01,POWERGRID UTILITIES,internet broadband bill,55.59,Utilities,Powergrid Utilities,0,0
+INV-100911,2025-04-10,AQUAFLOW SERVICES LLC,internet broadband bill,87.27,Utilities,Aquaflow Services,0,0
+INV-100154,2025-09-01,AQUAFLOW SERVICES Pvt Ltd,water charges,68.67,Utilities,Aquaflow Services,0,0
+INV-100287,2025-08-31,SKYROUTE TRAVELS,hotel stay client visit,222.31,Travel,Skyroute Travels,0,0
+INV-100625,2025-11-07,Paperline  Traders Co.,stationery order,62.38,Office Supplies,Paperline Traders,0,0
+INV-100888,2025-08-30,Roadrunner  Cabs Co.,flight booking,382.2,Travel,Roadrunner Cabs,0,0
+INV-100569,2025-09-03,Brightoffice Suplies LLC,stationery order,53.28,Office Supplies,Brightoffice Supplies,0,0
+INV-100790,2025-06-25,STAYWELL HOTELS Ltd.,hotel stay client visit,274.71,Travel,Staywell Hotels,0,0
+INV-100017,2025-03-06,Paperline Traders Pvt Ltd,office desk accessories,70.65,Office Supplies,Paperline Traders,0,0
+INV-100127,2025-02-10,Deskmate-Stationers Inc,office desk accessories,94.47,Office Supplies,Deskmate Stationers,0,0
+INV-100322,2025-03-07,Skyroute-Travels Ltd.,airport cab fare,437.02,Travel,Skyroute Travels,0,0
+INV-100255,2025-02-10,PAPERLINE TRADERS Inc,office desk accessories,92.09,Office Supplies,Paperline Traders,0,0
+INV-100700,2025-08-20,CLOUDNEST SYSTEMS,monthly saas subscription,98.88,Software & Subscriptions,Cloudnest Systems,0,0
+INV-900024,2025-06-28,Lexa Legal Associates LLC,marketing retainer,625.79,Professional Services,Lexa Legal Associates,1,0
+INV-100190,2025-08-16,Brandpeak Marketing,marketing retainer,805.63,Professional Services,Brandpeak Marketing,0,0
+INV-100115,2025-02-24,Datawave Analytics Inc,cloud hosting fee,101.8,Software & Subscriptions,Datawave Analytics,0,0
+INV-100656,2025-09-21,paperline traders Ltd.,stationery order,78.49,Office Supplies,Paperline Traders,0,0
+INV-100606,2025-02-05,Lexa-Legal-Associates Inc,marketing retainer,631.42,Professional Services,Lexa Legal Associates,0,0
+INV-100180,2025-11-21,PIXELFORGE SOFTWARE Inc,monthly saas subscription,134.07,Software & Subscriptions,Pixelforge Software,0,0
+INV-100301,2025-04-10,Paperlie-Traders LLC,printer paper and toner,30.46,Office Supplies,Paperline Traders,0,0
+INV-100806,2025-06-06,BRANDPEAK MARKETING Pvt Ltd,marketing retainer,643.54,Professional Services,Brandpeak Marketing,0,0
+INV-100757,2025-06-26,Paperline-Traders,printer paper and toner,40.23,Office Supplies,Paperline Traders,0,0
+INV-900032,2025-03-03,Brightoffice-Supplies Ltd.,office desk accessories,48.77,Office Supplies,Brightoffice Supplies,1,0
+INV-100781,2025-05-29,Netlink Broadband,electricity bill,92.77,Utilities,Netlink Broadband,0,0
+INV-100705,2025-06-29,Brightoffice-Supplies,office desk accessories,73.97,Office Supplies,Brightoffice Supplies,0,0
+INV-100517,2025-03-13,datawave analytics Inc,monthly saas subscription,145.41,Software & Subscriptions,Datawave Analytics,0,0
+INV-100372,2025-11-04,skyroute travels Inc,flight booking,392.89,Travel,Skyroute Travels,0,0
+INV-100045,2025-05-25,Roadrunner-Cabs Ltd.,hotel stay client visit,414.38,Travel,Roadrunner Cabs,0,0
+INV-100963,2025-05-24,Staywell  Hotels Pvt Ltd,flight booking,421.33,Travel,Staywell Hotels,0,0
+INV-100157,2025-01-06,Lexa  Legal  Associates Inc,legal consultation fee,965.29,Professional Services,Lexa Legal Associates,0,0
+INV-100940,2025-04-15,Ledgerwise  Consultants Co.,audit and tax advisory,580.64,Professional Services,Ledgerwise Consultants,0,0
+INV-100171,2025-04-13,Pixelforge Software Ltd.,annual software license,110.19,Software & Subscriptions,Pixelforge Software,0,0
+INV-100016,2025-09-08,Brightoffice  Supplies Ltd.,stationery order,51.43,Office Supplies,Brightoffice Supplies,0,0
+INV-100511,2025-10-31,Lexa  Legal  Associates Inc,audit and tax advisory,476.69,Professional Services,Lexa Legal Associates,0,0
+INV-100048,2025-10-10,LEXA LGAL ASSOCIATES Pvt Ltd,legal consultation fee,497.72,Professional Services,Lexa Legal Associates,0,0
+INV-100191,2025-02-02,Aquaflow Services,water charges,113.19,Utilities,Aquaflow Services,0,0
+INV-100892,2025-07-26,Pixelforge-Software LLC,monthly saas subscription,89.58,Software & Subscriptions,Pixelforge Software,0,0
+INV-100515,2025-04-16,Brightoffice  Supplies Inc,office desk accessories,72.79,Office Supplies,Brightoffice Supplies,0,0
+INV-100946,2025-04-28,PAPERLINE TRADERS Ltd.,office desk accessories,53.52,Office Supplies,Paperline Traders,0,0
+INV-100730,2025-07-28,Deskmate Stationers,office desk accessories,88.71,Office Supplies,Deskmate Stationers,0,0
+INV-100480,2025-05-29,AQUAFLOW SERVICES Pvt Ltd,water charges,65.6,Utilities,Aquaflow Services,0,0
+INV-100283,2025-10-04,Datawave Analytics Co.,monthly saas subscription,117.23,Software & Subscriptions,Datawave Analytics,0,0
+INV-100937,2025-01-26,Staywell-Hotels,hotel stay client visit,357.0,Travel,Staywell Hotels,0,0
+INV-100697,2025-04-16,Paperline Traders Inc,stationery order,83.75,Office Supplies,Paperline Traders,0,0
+INV-100225,2025-09-20,Roadunner  Cabs LLC,hotel stay client visit,208.49,Travel,Roadrunner Cabs,0,0
+INV-100026,2025-11-07,Brandpeak Marketing Pvt Ltd,legal consultation fee,843.13,Professional Services,Brandpeak Marketing,0,0
+INV-100829,2025-04-17,Brandpeak  Marketing,audit and tax advisory,573.14,Professional Services,Brandpeak Marketing,0,0
+INV-100437,2025-11-26,LEDGERWISE CONSULTANTS Pvt Ltd,legal consultation fee,737.83,Professional Services,Ledgerwise Consultants,0,0
+INV-900008,2025-03-29,Powergrid Utilities Co.,water charges,81.09,Utilities,Powergrid Utilities,1,0
+INV-100364,2025-08-27,Deskmate  Stationers Pvt Ltd,office desk accessories,82.96,Office Supplies,Deskmate Stationers,0,0
+INV-100229,2025-07-06,POWEGRID UTILITIES,internet broadband bill,105.22,Utilities,Powergrid Utilities,0,0
+INV-100037,2025-07-07,PAPERLINE TRADERS LLC,stationery order,54.5,Office Supplies,Paperline Traders,0,0
+INV-100669,2025-10-22,Deskmate-Stationers Inc,office desk accessories,53.95,Office Supplies,Deskmate Stationers,0,0
+INV-900025,2025-11-16,Cloudnest-Systems,cloud hosting fee,120.58,Software & Subscriptions,Cloudnest Systems,1,0
+INV-100374,2025-08-16,Ledgerwise Consultants Ltd.,legal consultation fee,765.21,Professional Services,Ledgerwise Consultants,0,0
+INV-100469,2025-08-04,aquaflow services LLC,water charges,79.38,Utilities,Aquaflow Services,0,0
+INV-900026,2025-11-14,LEXA LEGAL ASSOCIATES LLC,legal consultation fee,508.81,Professional Services,Lexa Legal Associates,1,0
+INV-100687,2025-03-23,datawave analytics Inc,monthly saas subscription,79.16,Software & Subscriptions,Datawave Analytics,0,0
+INV-100903,2025-01-27,BrightofficeSupplies,stationery order,73.16,Office Supplies,Brightoffice Supplies,0,0
+INV-100982,2025-03-05,Staywell Hotels Co.,flight booking,307.44,Travel,Staywell Hotels,0,0
+INV-100912,2025-04-13,Paperline  Traders,office desk accessories,54.94,Office Supplies,Paperline Traders,0,0
+INV-100194,2025-07-27,Powergrid  Utilities Ltd.,water charges,96.59,Utilities,Powergrid Utilities,0,0
+INV-100907,2025-01-12,Brandpeak-Marketing Inc,audit and tax advisory,584.12,Professional Services,Brandpeak Marketing,0,0
+INV-100917,2025-10-30,Datawave  Analytics LLC,cloud hosting fee,103.59,Software & Subscriptions,Datawave Analytics,0,0
+INV-100503,2025-07-24,Aquaflow  Services Pvt Ltd,electricity bill,115.04,Utilities,Aquaflow Services,0,0
+INV-900027,2025-08-06,Paperline  Traders Inc,printer paper and toner,24.85,Office Supplies,Paperline Traders,1,0
+INV-100882,2025-08-29,Brightoffce-Supplies Co.,printer paper and toner,10.39,Office Supplies,Brightoffice Supplies,0,0
+INV-100579,2025-05-05,BRANDPEAK MARKETING Ltd.,legal consultation fee,761.29,Professional Services,Brandpeak Marketing,0,0
+INV-100160,2025-09-10,POWERGRID UTILITIES Pvt Ltd,water charges,85.93,Utilities,Powergrid Utilities,0,0
+INV-100680,2025-09-30,Brightoffice  Supplies Co.,office desk accessories,397.2,Office Supplies,Brightoffice Supplies,0,1
+INV-100162,2025-02-07,BRIGHTOFFICE SPPLIES Pvt Ltd,printer paper and toner,42.46,Office Supplies,Brightoffice Supplies,0,0
+INV-100746,2025-05-02,Netlink Broadband,electricity bill,104.96,Utilities,Netlink Broadband,0,0
+INV-100152,2025-01-03,Brandpeak Marketing Co.,audit and tax advisory,750.21,Professional Services,Brandpeak Marketing,0,0
+INV-100893,2025-08-09,Brightoffice Supplies Inc,office desk accessories,59.56,Office Supplies,Brightoffice Supplies,0,0
+INV-100826,2025-02-17,Brandpeak-Marketing Ltd.,audit and tax advisory,790.42,Professional Services,Brandpeak Marketing,0,0
+INV-100802,2025-09-13,Aquaflow Services,water charges,658.3,Utilities,Aquaflow Services,0,1
+INV-100111,2025-04-15,Brightoffice-Supplies Ltd.,printer paper and toner,78.63,Office Supplies,Brightoffice Supplies,0,0
+INV-100226,2025-08-27,Brandpeak Marketing LLC,legal consultation fee,707.21,Professional Services,Brandpeak Marketing,0,0
+INV-100732,2025-03-24,Powergrid Utilities LLC,water charges,100.81,Utilities,Powergrid Utilities,0,0
+INV-100103,2025-04-03,Brightoffice  Supplies LLC,office desk accessories,65.61,Office Supplies,Brightoffice Supplies,0,0
+INV-100421,2025-03-19,STAYWELL HOTELS LLC,hotel stay client visit,479.63,Travel,Staywell Hotels,0,0
+INV-100419,2025-09-02,netlink broadband LLC,water charges,107.85,Utilities,Netlink Broadband,0,0
+INV-100997,2025-11-12,staywell hotels Pvt Ltd,flight booking,277.03,Travel,Staywell Hotels,0,0
+INV-100586,2025-06-07,Paperline-Traders Inc,printer paper and toner,46.13,Office Supplies,Paperline Traders,0,0
+INV-100827,2025-11-25,cloudnest systems LLC,monthly saas subscription,83.96,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100672,2025-08-31,LEXA LEGAL ASSOCIATES Ltd.,audit and tax advisory,1094.76,Professional Services,Lexa Legal Associates,0,0
+INV-100119,2025-10-21,Brandpeak Marketing LLC,marketing retainer,673.9,Professional Services,Brandpeak Marketing,0,0
+INV-100053,2025-05-15,Aquaflow Srvices,internet broadband bill,101.42,Utilities,Aquaflow Services,0,0
+INV-100151,2025-02-04,staywell hotels,hotel stay client visit,329.95,Travel,Staywell Hotels,0,0
+INV-100403,2025-09-05,Lexa Legal Associates,audit and tax advisory,606.74,Professional Services,Lexa Legal Associates,0,0
+INV-900002,2025-07-02,brightoffice supplies Pvt Ltd,printer paper and toner,45.5,Office Supplies,Brightoffice Supplies,1,0
+INV-100207,2025-08-15,Brandpeak Marketing LLC,audit and tax advisory,626.42,Professional Services,Brandpeak Marketing,0,0
+INV-100658,2025-06-13,Netlink  Broadband Pvt Ltd,electricity bill,87.35,Utilities,Netlink Broadband,0,0
+INV-100896,2025-11-04,Aquaflow Services Co.,water charges,97.32,Utilities,Aquaflow Services,0,0
+INV-100809,2025-03-06,Skyroute  Trvels Pvt Ltd,hotel stay client visit,218.08,Travel,Skyroute Travels,0,0
+INV-100008,2025-05-13,datawave analytics Ltd.,annual software license,122.64,Software & Subscriptions,Datawave Analytics,0,0
+INV-100928,2025-11-01,Pixelforge  Software Inc,monthly saas subscription,119.03,Software & Subscriptions,Pixelforge Software,0,0
+INV-100036,2025-06-16,Brandpeak  Marketing Co.,audit and tax advisory,596.52,Professional Services,Brandpeak Marketing,0,0
+INV-100452,2025-07-04,BRANDPEAK MARKETING Co.,legal consultation fee,324.76,Professional Services,Brandpeak Marketing,0,0
+INV-100651,2025-03-11,Netlink  Broadband Pvt Ltd,electricity bill,93.28,Utilities,Netlink Broadband,0,0
+INV-100253,2025-02-09,skyroute trvels,flight booking,576.04,Travel,Skyroute Travels,0,0
+INV-100303,2025-08-03,AQUAFLOW SERVICES Ltd.,water charges,117.86,Utilities,Aquaflow Services,0,0
+INV-100793,2025-03-27,Skyroute Travels Ltd.,airport cab fare,210.24,Travel,Skyroute Travels,0,0
+INV-100571,2025-05-05,Ledgerwise Consultants,marketing retainer,1085.81,Professional Services,Ledgerwise Consultants,0,0
+INV-100623,2025-03-23,Powergrid Utilities LLC,water charges,42.98,Utilities,Powergrid Utilities,0,0
+INV-100754,2025-07-08,STAYWELL HOTELS Inc,hotel stay client visit,331.22,Travel,Staywell Hotels,0,0
+INV-100764,2025-03-30,Brandpeak Marketing,legal consultation fee,238.56,Professional Services,Brandpeak Marketing,0,0
+INV-100262,2025-06-29,Pixelforge Software Pvt Ltd,annual software license,131.05,Software & Subscriptions,Pixelforge Software,0,0
+INV-100610,2025-02-06,paperline traders,stationery order,67.79,Office Supplies,Paperline Traders,0,0
+INV-100297,2025-06-01,Powergrid-Utilities Inc,electricity bill,100.7,Utilities,Powergrid Utilities,0,0
+INV-100414,2025-11-11,Cloudnest  Systems Inc,cloud hosting fee,52.58,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100150,2025-10-05,Stywell  Hotels LLC,airport cab fare,339.42,Travel,Staywell Hotels,0,0
+INV-100835,2025-07-12,netlink broadbandCo.,water charges,90.66,Utilities,Netlink Broadband,0,0
+INV-100640,2025-06-24,Brandpeak Marketing LLC,legal consultation fee,763.66,Professional Services,Brandpeak Marketing,0,0
+INV-100943,2025-03-14,Brandpeak  Marketing Pvt Ltd,audit and tax advisory,659.85,Professional Services,Brandpeak Marketing,0,0
+INV-100550,2025-01-12,DATAWAVE ANALYTICS Inc,monthly saas subscription,111.92,Software & Subscriptions,Datawave Analytics,0,0
+INV-100855,2025-03-26,Paperline Traders Co.,office desk accessories,43.28,Office Supplies,Paperline Traders,0,0
+INV-100488,2025-07-01,Skyroute  Travels Inc,flight booking,395.43,Travel,Skyroute Travels,0,0
+INV-100710,2025-01-07,Powergrid-Utilities LLC,electricity bill,100.94,Utilities,Powergrid Utilities,0,0
+INV-100147,2025-11-12,BRIGHTOFFICE SUPPLIES Inc,printer paper and toner,56.91,Office Supplies,Brightoffice Supplies,0,0
+INV-100146,2025-04-14,Brandpeak Marketing,marketing retainer,818.39,Professional Services,Brandpeak Marketing,0,0
+INV-100965,2025-02-25,LEXA LEGAL ASSOCIATES Co.,marketing retainer,640.4,Professional Services,Lexa Legal Associates,0,0
+INV-100988,2025-05-02,Netlink Broadband,internet broadband bill,114.71,Utilities,Netlink Broadband,0,0
+INV-100786,2025-03-25,Datawave  Analytics Ltd.,annual software license,109.82,Software & Subscriptions,Datawave Analytics,0,0
+INV-100659,2025-05-10,LEXA LEGAL ASSOCIATES Ltd.,legal consultation fee,835.7,Professional Services,Lexa Legal Associates,0,0
+INV-100348,2025-08-11,Powergrid Utilities Ltd.,water charges,87.85,Utilities,Powergrid Utilities,0,0
+INV-100463,2025-06-07,roadrunner cabs Inc,flight booking,457.69,Travel,Roadrunner Cabs,0,0
+INV-100325,2025-06-19,Brightoffice Supplies,office desk accessories,88.66,Office Supplies,Brightoffice Supplies,0,0
+INV-100186,2025-01-03,Aquaflow Services Inc,water charges,70.92,Utilities,Aquaflow Services,0,0
+INV-100123,2025-05-04,Deskmate Stationers Inc,office desk accessories,68.58,Office Supplies,Deskmate Stationers,0,0
+INV-100906,2025-05-01,Ledgerwise-Consultants Ltd.,audit and tax advisory,794.12,Professional Services,Ledgerwise Consultants,0,0
+INV-100608,2025-09-02,LEDGERWIE CONSULTANTS,marketing retainer,510.29,Professional Services,Ledgerwise Consultants,0,0
+INV-100143,2025-02-10,Paperline  Tradrs,office desk accessories,69.77,Office Supplies,Paperline Traders,0,0
+INV-100751,2025-04-17,Ledgerwise-Consultants Pvt Ltd,legal consultation fee,1027.23,Professional Services,Ledgerwise Consultants,0,0
+INV-900018,2025-09-24,SKYOUTE TRAVELS Ltd.,airport cab fare,184.17,Travel,Skyroute Travels,1,0
+INV-100197,2025-06-26,Aquaflow Services Inc,water charges,93.81,Utilities,Aquaflow Services,0,0
+INV-100609,2025-04-08,Paperline  Traders,office desk accessories,29.29,Office Supplies,Paperline Traders,0,0
+INV-100279,2025-10-08,BRIGHTOFFICE SUPPLIES Co.,printer paper and toner,46.43,Office Supplies,Brightoffice Supplies,0,0
+INV-100293,2025-10-19,Pixelforge  Software,cloud hosting fee,46.76,Software & Subscriptions,Pixelforge Software,0,0
+INV-100883,2025-07-20,Ledgerwise Consultants,marketing retainer,971.24,Professional Services,Ledgerwise Consultants,0,0
+INV-100400,2025-02-05,Powergrid  Utilities LLC,internet broadband bill,866.02,Utilities,Powergrid Utilities,0,1
+INV-100122,2025-05-16,AQUAFLOW SERVICES Co.,water charges,79.73,Utilities,Aquaflow Services,0,0
+INV-100183,2025-01-15,Datawave Analytics Pvt Ltd,annual software license,116.11,Software & Subscriptions,Datawave Analytics,0,0
+INV-100202,2025-02-24,Powergrid-Utilities Pvt Ltd,internet broadband bill,46.08,Utilities,Powergrid Utilities,0,0
+INV-100438,2025-06-26,Lexa Legal Associates,marketing retainer,625.79,Professional Services,Lexa Legal Associates,0,0
+INV-100246,2025-02-12,ROADRUNNER CABS LLC,flight booking,306.25,Travel,Roadrunner Cabs,0,0
+INV-100415,2025-01-17,Ledgerwise  Consultants Co.,audit and tax advisory,472.45,Professional Services,Ledgerwise Consultants,0,0
+INV-100823,2025-07-24,Lea-Legal-Associates LLC,legal consultation fee,437.02,Professional Services,Lexa Legal Associates,0,0
+INV-100930,2025-11-15,STAYWELL HOTELS Co.,flight booking,339.5,Travel,Staywell Hotels,0,0
+INV-100960,2025-07-23,Roadrunner Cabs LLC,flight booking,362.96,Travel,Roadrunner Cabs,0,0
+INV-100954,2025-02-12,Brandpeak  Marketing Ltd.,marketing retainer,977.41,Professional Services,Brandpeak Marketing,0,0
+INV-100941,2025-02-21,Paperline-Traders Inc,printer paper and toner,22.58,Office Supplies,Paperline Traders,0,0
+INV-100129,2025-03-01,aquaflow services,electricity bill,126.54,Utilities,Aquaflow Services,0,0
+INV-100637,2025-02-09,Deskmate  Stationers,office desk accessories,64.23,Office Supplies,Deskmate Stationers,0,0
+INV-100402,2025-11-17,BRIGHTOFFICE SUPPLIES LLC,printer paper and toner,96.43,Office Supplies,Brightoffice Supplies,0,0
+INV-900004,2025-05-03,Powergrid  Utilities,water charges,81.79,Utilities,Powergrid Utilities,1,0
+INV-100817,2025-04-28,Staywell-otels Co.,airport cab fare,352.73,Travel,Staywell Hotels,0,0
+INV-100735,2025-02-06,Lexa-Legal-Associates LLC,audit and tax advisory,360.4,Professional Services,Lexa Legal Associates,0,0
+INV-100967,2025-02-05,Deskmate Stationers Ltd.,printer paper and toner,27.29,Office Supplies,Deskmate Stationers,0,0
+INV-100219,2025-02-01,BRANDPEAK MARKETING Pvt Ltd,marketing retainer,1100.54,Professional Services,Brandpeak Marketing,0,0
+INV-100641,2025-06-25,AQUAFLOW SERVICES Co.,internet broadband bill,98.4,Utilities,Aquaflow Services,0,0
+INV-100969,2025-06-17,Cloudnest Systems Inc,annual software license,102.4,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100799,2025-07-06,cloudnest systems LLC,cloud hosting fee,87.99,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100854,2025-06-25,Lexa-Legal-Associates Inc,legal consultation fee,689.1,Professional Services,Lexa Legal Associates,0,0
+INV-100974,2025-08-26,BRANDPEAK MARKETING LLC,audit and tax advisory,1016.52,Professional Services,Brandpeak Marketing,0,0
+INV-100624,2025-01-13,LEDGERWISE CONSULTANTS LLC,marketing retainer,4989.61,Professional Services,Ledgerwise Consultants,0,1
+INV-100890,2025-06-17,Brandpeak-Marketing Pvt Ltd,audit and tax advisory,782.73,Professional Services,Brandpeak Marketing,0,0
+INV-100807,2025-01-20,Paperline  Traders Pvt Ltd,office desk accessories,98.68,Office Supplies,Paperline Traders,0,0
+INV-100386,2025-05-19,Brandpeak Marketing,marketing retainer,820.65,Professional Services,Brandpeak Marketing,0,0
+INV-900029,2025-01-22,NETLINK BROADBAND Ltd.,water charges,67.12,Utilities,Netlink Broadband,1,0
+INV-100509,2025-09-13,cloudnest systems Inc,annual software license,84.27,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100267,2025-11-26,skyroute travels Pvt Ltd,airport cab fare,247.14,Travel,Skyroute Travels,0,0
+INV-100868,2025-11-05,LEDGERWISE CONSULTANTS Ltd.,legal consultation fee,755.1,Professional Services,Ledgerwise Consultants,0,0
+INV-100441,2025-05-10,Ledgerwise-Consultnts,audit and tax advisory,614.1,Professional Services,Ledgerwise Consultants,0,0
+INV-100496,2025-10-13,ledgerwise consultants Ltd.,audit and tax advisory,453.7,Professional Services,Ledgerwise Consultants,0,0
+INV-100112,2025-07-25,Skyroute  Travels Inc,airport cab fare,362.34,Travel,Skyroute Travels,0,0
+INV-100691,2025-08-11,AQUAFLOW SERVICES Co.,electricity bill,97.9,Utilities,Aquaflow Services,0,0
+INV-100232,2025-06-20,Pixelforge-Software Inc,cloud hosting fee,136.56,Software & Subscriptions,Pixelforge Software,0,0
+INV-100922,2025-03-07,Skyroute Travls,airport cab fare,361.46,Travel,Skyroute Travels,0,0
+INV-100607,2025-10-09,Brightoffice Supplies Co.,stationery order,46.48,Office Supplies,Brightoffice Supplies,0,0
+INV-100671,2025-04-10,deskmate stationers Pvt Ltd,stationery order,89.59,Office Supplies,Deskmate Stationers,0,0
+INV-100373,2025-10-06,Roadrunner-Cabs Ltd.,flight booking,381.22,Travel,Roadrunner Cabs,0,0
+INV-100663,2025-07-17,DATAWAVE ANALYTICS Inc,annual software license,137.75,Software & Subscriptions,Datawave Analytics,0,0
+INV-100895,2025-01-14,Roadrunner-Cabs Ltd.,hotel stay client visit,426.42,Travel,Roadrunner Cabs,0,0
+INV-100233,2025-06-12,Paperline-Traders,stationery order,18.74,Office Supplies,Paperline Traders,0,0
+INV-100832,2025-04-18,Powergrid-Utilities,internet broadband bill,61.93,Utilities,Powergrid Utilities,0,0
+INV-100676,2025-04-20,Lexa Legal Associates Co.,marketing retainer,728.77,Professional Services,Lexa Legal Associates,0,0
+INV-100317,2025-03-16,DATAWAVE ANALYTICS Pvt Ltd,cloud hosting fee,81.52,Software & Subscriptions,Datawave Analytics,0,0
+INV-100648,2025-08-05,Brandpeak Marketing,legal consultation fee,593.51,Professional Services,Brandpeak Marketing,0,0
+INV-100410,2025-03-15,skyroute travels Ltd.,flight booking,460.19,Travel,Skyroute Travels,0,0
+INV-100952,2025-10-12,LEXA LEGAL ASSOCIATES,legal consultation fee,607.85,Professional Services,Lexa Legal Associates,0,0
+INV-100709,2025-11-01,Deskmate-Stationers Inc,office desk accessories,40.89,Office Supplies,Deskmate Stationers,0,0
+INV-100358,2025-06-08,Ledgerwise  Consultants,marketing retainer,756.81,Professional Services,Ledgerwise Consultants,0,0
+INV-100258,2025-05-23,staywell hotelsLLC,hotel stay client visit,143.75,Travel,Staywell Hotels,0,0
+INV-100744,2025-04-09,Aquaflow-Services Pvt Ltd,water charges,121.05,Utilities,Aquaflow Services,0,0
+INV-100627,2025-06-20,BRIGHTOFFICE SUPPLIES,office desk accessories,97.64,Office Supplies,Brightoffice Supplies,0,0
+INV-100632,2025-10-03,paperline trader LLC,printer paper and toner,83.31,Office Supplies,Paperline Traders,0,0
+INV-100282,2025-09-28,DESKMATE STATIONERS LLC,office desk accessories,81.78,Office Supplies,Deskmate Stationers,0,0
+INV-100376,2025-04-11,PAPERLINE TRADERS Inc,printer paper and toner,53.86,Office Supplies,Paperline Traders,0,0
+INV-100384,2025-03-27,ledgerwise consultants Co.,legal consultation fee,862.67,Professional Services,Ledgerwise Consultants,0,0
+INV-100224,2025-11-25,Brandpeak-Marketing LLC,marketing retainer,840.26,Professional Services,Brandpeak Marketing,0,0
+INV-900012,2025-06-28,Aquaflow Services LLC,internet broadband bill,37.3,Utilities,Aquaflow Services,1,0
+INV-100894,2025-02-15,Ledgerwise onsultants,legal consultation fee,356.17,Professional Services,Ledgerwise Consultants,0,0
+INV-100472,2025-09-01,Ledgerwise Consultants Inc,audit and tax advisory,204.61,Professional Services,Ledgerwise Consultants,0,0
+INV-100347,2025-05-08,Brandpeak-Marketing Inc,legal consultation fee,721.89,Professional Services,Brandpeak Marketing,0,0
+INV-100505,2025-07-14,Lexa  Legal  Associates,audit and tax advisory,290.84,Professional Services,Lexa Legal Associates,0,0
+INV-100639,2025-07-20,BRIGHTOFFICE SUPPLIES LLC,stationery order,84.01,Office Supplies,Brightoffice Supplies,0,0
+INV-900036,2025-05-21,Brightoffice  Supplies Ltd.,stationery order,77.74,Office Supplies,Brightoffice Supplies,1,0
+INV-100797,2025-03-31,SKYROUTE TRAVELS Pvt Ltd,airport cab fare,365.92,Travel,Skyroute Travels,0,0
+INV-100985,2025-08-07,Lexa Legal Associates Co.,audit and tax advisory,911.85,Professional Services,Lexa Legal Associates,0,0
+INV-100959,2025-09-12,STAYWELL HOTELS Pvt Ltd,hotel stay client visit,296.97,Travel,Staywell Hotels,0,0
+INV-100619,2025-03-22,Brightoffice  Supplies LLC,office desk accessories,79.75,Office Supplies,Brightoffice Supplies,0,0
+INV-100908,2025-06-07,Lexa Legal Associates LLC,audit and tax advisory,472.87,Professional Services,Lexa Legal Associates,0,0
+INV-100851,2025-02-24,Aquaflow-Services Pvt Ltd,internet broadband bill,114.98,Utilities,Aquaflow Services,0,0
+INV-100645,2025-02-20,brightoffice supplies Ltd.,printer paper and toner,69.55,Office Supplies,Brightoffice Supplies,0,0
+INV-100899,2025-04-24,CLOUDNEST SYSTES,annual software license,77.01,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100556,2025-03-29,CLOUDNEST SYSTEMS LLC,cloud hosting fee,74.42,Software & Subscriptions,Cloudnest Systems,0,0
+INV-900017,2025-08-09,Aquaflow-Services Pvt Ltd,internet broadband bill,107.55,Utilities,Aquaflow Services,1,0
+INV-100577,2025-11-05,Netlink Broadband LLC,electricity bill,77.76,Utilities,Netlink Broadband,0,0
+INV-100795,2025-09-30,PAPERLINE TRADERS Co.,printer paper and toner,44.76,Office Supplies,Paperline Traders,0,0
+INV-100085,2025-07-13,Skyroute Travels Co.,airport cab fare,249.63,Travel,Skyroute Travels,0,0
+INV-100242,2025-06-25,ledgerwise consultants,legal consultation fee,510.06,Professional Services,Ledgerwise Consultants,0,0
+INV-100698,2025-05-26,Brandpeak  Marketing LLC,legal consultation fee,744.61,Professional Services,Brandpeak Marketing,0,0
+INV-100927,2025-10-05,ROADRUNNER CABS Lt.,hotel stay client visit,143.42,Travel,Roadrunner Cabs,0,0
+INV-100159,2025-09-20,AQUAFLOW SERVICES Pvt Ltd,water charges,36.32,Utilities,Aquaflow Services,0,0
+INV-100524,2025-02-10,aquaflow services,internet broadband bill,123.98,Utilities,Aquaflow Services,0,0
+INV-100035,2025-08-21,Deskmate-Stationers,office desk accessories,53.61,Office Supplies,Deskmate Stationers,0,0
+INV-100540,2025-01-18,Aquaflow Services Ltd.,water charges,86.93,Utilities,Aquaflow Services,0,0
+INV-100170,2025-04-16,BRIGHTOFFICE SUPPLIES LLC,stationery order,94.57,Office Supplies,Brightoffice Supplies,0,0
+INV-100654,2025-04-03,Aquaflow Services,water charges,55.88,Utilities,Aquaflow Services,0,0
+INV-100944,2025-10-15,Roadrunner-abs,flight booking,383.31,Travel,Roadrunner Cabs,0,0
+INV-100910,2025-06-29,Roadrunner  Cabs,airport cab fare,239.45,Travel,Roadrunner Cabs,0,0
+INV-100900,2025-03-07,LEXA LEGAL ASSOCIATES LLC,legal consultation fee,892.84,Professional Services,Lexa Legal Associates,0,0
+INV-900001,2025-09-28,Staywell-Hotels Ltd.,hotel stay client visit,345.62,Travel,Staywell Hotels,1,0
+INV-100733,2025-03-31,cloudnest systems,monthly saas subscription,124.42,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100095,2025-06-06,skyroute travels Inc,flight booking,349.45,Travel,Skyroute Travels,0,0
+INV-100563,2025-08-30,NETLINK BROADBAND,electricity bill,99.9,Utilities,Netlink Broadband,0,0
+INV-100240,2025-09-27,Staywell  Hotels,hotel stay client visit,345.62,Travel,Staywell Hotels,0,0
+INV-100742,2025-08-14,Deskmate Stationers,printer paper and toner,91.58,Office Supplies,Deskmate Stationers,0,0
+INV-100863,2025-08-13,Netlink  Broadband Pvt Ltd,water charges,99.09,Utilities,Netlink Broadband,0,0
+INV-100574,2025-07-08,PIXELFORGE SOFTWARE Ltd.,cloud hosting fee,247.15,Software & Subscriptions,Pixelforge Software,0,0
+INV-100690,2025-04-03,Staywell Hotels Inc,flight booking,388.17,Travel,Staywell Hotels,0,0
+INV-100460,2025-03-24,brandpeak marketing Co.,legal consultation fee,792.44,Professional Services,Brandpeak Marketing,0,0
+INV-100553,2025-02-01,DESKMATE STATIONERS,printer paper and toner,66.23,Office Supplies,Deskmate Stationers,0,0
+INV-100857,2025-07-17,datawave analytics Co.,cloud hosting fee,143.74,Software & Subscriptions,Datawave Analytics,0,0
+INV-100973,2025-01-23,Paperline-Traders LLC,office desk accessories,32.19,Office Supplies,Paperline Traders,0,0
+INV-100206,2025-03-02,Staywell Hotels Ltd.,airport cab fare,313.25,Travel,Staywell Hotels,0,0
+INV-100392,2025-11-21,STAYWELL HOTELS Inc,flight booking,457.27,Travel,Staywell Hotels,0,0
+INV-100794,2025-02-04,LEXA LEGAL ASSOCIATES,audit and tax advisory,681.33,Professional Services,Lexa Legal Associates,0,0
+INV-100870,2025-10-08,PAPERLINE TRADERS,stationery order,100.07,Office Supplies,Paperline Traders,0,0
+INV-100397,2025-02-07,Datawave Analytics,monthly saas subscription,199.89,Software & Subscriptions,Datawave Analytics,0,0
+INV-100766,2025-01-15,lexa legal associates LLC,audit and tax advisory,549.11,Professional Services,Lexa Legal Associates,0,0
+INV-100901,2025-05-14,Pixelforge-Software,annual software license,136.48,Software & Subscriptions,Pixelforge Software,0,0
+INV-100217,2025-08-18,brightoffice supplies,printer paper and toner,56.19,Office Supplies,Brightoffice Supplies,0,0
+INV-100004,2025-08-25,Ledgerwise Consultants,legal consultation fee,728.12,Professional Services,Ledgerwise Consultants,0,0
+INV-100768,2025-07-13,PAPERLINE TRADERS Inc,office desk accessories,85.77,Office Supplies,Paperline Traders,0,0
+INV-100642,2025-02-17,Brandpeak Marketing Ltd.,legal consultation fee,55.27,Professional Services,Brandpeak Marketing,0,0
+INV-100951,2025-07-26,Lexa Legal Associates Co.,legal consultation fee,812.9,Professional Services,Lexa Legal Associates,0,0
+INV-100612,2025-07-19,Ledgerwise Consultants Inc,marketing retainer,1049.42,Professional Services,Ledgerwise Consultants,0,0
+INV-100738,2025-04-08,DATAWAVE ANALYTICS Inc,cloud hosting fee,120.34,Software & Subscriptions,Datawave Analytics,0,0
+INV-100546,2025-09-09,STAYWELL HOTELS Co.,airport cab fare,461.61,Travel,Staywell Hotels,0,0
+INV-100725,2025-02-08,Brandpeak  Marketing Ltd.,marketing retainer,649.56,Professional Services,Brandpeak Marketing,0,0
+INV-100971,2025-06-10,Datawave Analytic LLC,monthly saas subscription,164.83,Software & Subscriptions,Datawave Analytics,0,0
+INV-100683,2025-08-07,Lexa Legal Associates Inc,legal consultation fee,783.35,Professional Services,Lexa Legal Associates,0,0
+INV-100098,2025-05-01,deskmate stationers Co.,office desk accessories,57.18,Office Supplies,Deskmate Stationers,0,0
+INV-100804,2025-02-01,Cloudnest-Systems,monthly saas subscription,114.36,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100727,2025-03-05,deskmate stationers Ltd.,printer paper and toner,64.54,Office Supplies,Deskmate Stationers,0,0
+INV-100573,2025-05-11,Paperline Traders,stationery order,67.31,Office Supplies,Paperline Traders,0,0
+INV-100406,2025-10-16,Powergrid-Utilities Ltd.,electricity bill,76.99,Utilities,Powergrid Utilities,0,0
+INV-100502,2025-08-22,DESKMATE STATIONERS Inc,office desk accessories,27.6,Office Supplies,Deskmate Stationers,0,0
+INV-100047,2025-10-09,Lexa Legal Assocates,marketing retainer,450.68,Professional Services,Lexa Legal Associates,0,0
+INV-100032,2025-09-23,LDGERWISE CONSULTANTS,marketing retainer,849.36,Professional Services,Ledgerwise Consultants,0,0
+INV-100779,2025-11-23,BRANDPEAK MARKETING,marketing retainer,759.98,Professional Services,Brandpeak Marketing,0,0
+INV-100839,2025-07-14,Datawave Analytics,monthly saas subscription,187.34,Software & Subscriptions,Datawave Analytics,0,0
+INV-100200,2025-03-24,Lexa  Legal  Associates Ltd.,audit and tax advisory,738.83,Professional Services,Lexa Legal Associates,0,0
+INV-100134,2025-02-27,Cloudnest  Systems Ltd.,cloud hosting fee,133.5,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100027,2025-05-25,Pixelforge Software Co.,monthly saas subscription,141.73,Software & Subscriptions,Pixelforge Software,0,0
+INV-100933,2025-06-09,cloudnest systems,monthly saas subscription,107.3,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100230,2025-08-13,Skyroute  Travels Pvt Ltd,hotel stay client visit,67.96,Travel,Skyroute Travels,0,0
+INV-100489,2025-09-15,DATAWAVE ANALYTICS Inc,monthly saas subscription,79.11,Software & Subscriptions,Datawave Analytics,0,0
+INV-100772,2025-05-16,Skyroute Travels Ltd.,airport cab fare,64.84,Travel,Skyroute Travels,0,0
+INV-100378,2025-07-12,NETLINK BROADBAND Inc,internet broadband bill,58.89,Utilities,Netlink Broadband,0,0
+INV-100288,2025-02-02,SKYROUTE TRAVELS Inc,airport cab fare,280.62,Travel,Skyroute Travels,0,0
+INV-100418,2025-09-02,Netlink  Broadband Inc,internet broadband bill,69.84,Utilities,Netlink Broadband,0,0
+INV-100674,2025-02-19,powergrid utilities Inc,water charges,98.82,Utilities,Powergrid Utilities,0,0
+INV-100391,2025-11-20,pixelforge software LLC,cloud hosting fee,173.45,Software & Subscriptions,Pixelforge Software,0,0
+INV-100592,2025-08-11,POWERGRID UTILITIES Co.,water charges,796.14,Utilities,Powergrid Utilities,0,1
+INV-100498,2025-04-16,Skyroute  Travels Inc,airport cab fare,380.36,Travel,Skyroute Travels,0,0
+INV-100138,2025-09-10,CLOUDNEST SYSTEMS Pvt Ltd,monthly saas subscription,86.27,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100062,2025-07-20,brightoffice supplies Ltd.,printer paper and toner,58.41,Office Supplies,Brightoffice Supplies,0,0
+INV-100471,2025-05-23,POWERGRID UTILITIES,water charges,113.8,Utilities,Powergrid Utilities,0,0
+INV-100647,2025-01-17,Ledgerwise Consultants,marketing retainer,1001.52,Professional Services,Ledgerwise Consultants,0,0
+INV-100128,2025-09-04,Roadrunner Cabs Pvt Ltd,hotel stay client visit,300.25,Travel,Roadrunner Cabs,0,0
+INV-900031,2025-10-10,Powergrid Utilities Pvt Ltd,water charges,92.27,Utilities,Powergrid Utilities,1,0
+INV-100520,2025-05-07,STAYWELL HOTELS Co.,flight booking,123.8,Travel,Staywell Hotels,0,0
+INV-100838,2025-01-11,Pixelforge  Software Pvt Ltd,monthly saas subscription,171.08,Software & Subscriptions,Pixelforge Software,0,0
+INV-900022,2025-04-01,Cloudnest  Systems,monthly saas subscription,124.42,Software & Subscriptions,Cloudnest Systems,1,0
+INV-100064,2025-04-22,Pixelforge  Software,monthly saas subscription,67.09,Software & Subscriptions,Pixelforge Software,0,0
+INV-100812,2025-06-22,Brightoffice Suplies Inc,printer paper and toner,50.28,Office Supplies,Brightoffice Supplies,0,0
+INV-100014,2025-01-23,SKYROUTE TRAVELS,airport cab fare,245.1,Travel,Skyroute Travels,0,0
+INV-100156,2025-10-07,deskmate stationers LLC,stationery order,48.19,Office Supplies,Deskmate Stationers,0,0
+INV-100040,2025-01-27,Paperline  Traders,stationery order,26.34,Office Supplies,Paperline Traders,0,0
+INV-100492,2025-10-12,Pixelforge-Software Ltd.,cloud hosting fee,60.13,Software & Subscriptions,Pixelforge Software,0,0
+INV-100379,2025-06-14,Cloudnest-Systems,cloud hosting fee,99.45,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100187,2025-05-04,Roadrunner Cabs,airport cab fare,348.73,Travel,Roadrunner Cabs,0,0
+INV-100763,2025-02-25,Powergrid Utilities Ltd.,water charges,83.9,Utilities,Powergrid Utilities,0,0
+INV-100216,2025-07-17,SYROUTE TRAVELS Co.,airport cab fare,190.39,Travel,Skyroute Travels,0,0
+INV-100921,2025-04-13,Roadrunner Cabs LLC,flight booking,278.23,Travel,Roadrunner Cabs,0,0
+INV-100791,2025-01-17,Skyroute  Travels Pvt Ltd,flight booking,193.59,Travel,Skyroute Travels,0,0
+INV-100052,2025-05-16,skyroute travels,airport cab fare,388.81,Travel,Skyroute Travels,0,0
+INV-100878,2025-07-11,DATAWAVE ANALYTICS Pvt Ltd,annual software license,122.14,Software & Subscriptions,Datawave Analytics,0,0
+INV-100337,2025-09-03,Staywell Hotels LLC,hotel stay client visit,283.08,Travel,Staywell Hotels,0,0
+INV-100748,2025-08-13,ledgerwise consultants Pvt Ltd,legal consultation fee,854.16,Professional Services,Ledgerwise Consultants,0,0
+INV-100719,2025-09-27,Aquaflow Services Ltd.,water charges,118.31,Utilities,Aquaflow Services,0,0
+INV-100724,2025-07-19,cloudnest systemsInc,cloud hosting fee,112.12,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100295,2025-01-31,LEDGERWISE CNSULTANTS Ltd.,legal consultation fee,582.54,Professional Services,Ledgerwise Consultants,0,0
+INV-100701,2025-10-16,BRANDPEAK MARKETING Inc,legal consultation fee,916.95,Professional Services,Brandpeak Marketing,0,0
+INV-100251,2025-11-22,Ledgrwise Consultants Inc,legal consultation fee,888.49,Professional Services,Ledgerwise Consultants,0,0
+INV-100726,2025-04-05,Brandpeak-Marketing,marketing retainer,349.59,Professional Services,Brandpeak Marketing,0,0
+INV-100461,2025-09-19,cloudnest systems LLC,cloud hosting fee,113.32,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100455,2025-09-02,ledgerwise consultants Ltd.,marketing retainer,872.67,Professional Services,Ledgerwise Consultants,0,0
+INV-100270,2025-03-23,Powergrid  Utilities,water charges,103.25,Utilities,Powergrid Utilities,0,0
+INV-100815,2025-04-16,Skyroute-Travels Pvt Ltd,airport cab fare,241.64,Travel,Skyroute Travels,0,0
+INV-100862,2025-11-05,Aquaflow  Services Co.,water charges,75.01,Utilities,Aquaflow Services,0,0
+INV-100269,2025-01-30,Datawave-Analytics Inc,cloud hosting fee,129.17,Software & Subscriptions,Datawave Analytics,0,0
+INV-100201,2025-03-29,Ledgerwise Consultants Inc,legal consultation fee,618.18,Professional Services,Ledgerwise Consultants,0,0
+INV-100161,2025-07-19,Netlink  Broadband,internet broadband bill,76.76,Utilities,Netlink Broadband,0,0
+INV-100555,2025-08-14,Pixelforge-Software Ltd.,monthly saas subscription,130.93,Software & Subscriptions,Pixelforge Software,0,0
+INV-100729,2025-07-24,Aquaflow Services,water charges,495.81,Utilities,Aquaflow Services,0,1
+INV-100401,2025-11-21,Netlink Boadband Ltd.,electricity bill,96.23,Utilities,Netlink Broadband,0,0
+INV-100702,2025-02-28,netlink broadband Pvt Ltd,internet broadband bill,76.06,Utilities,Netlink Broadband,0,0
+INV-100476,2025-09-18,Skyroute Travels,hotel stay client visit,297.88,Travel,Skyroute Travels,0,0
+INV-100821,2025-02-02,Staywell-Hotels,airport cab fare,168.42,Travel,Staywell Hotels,0,0
+INV-100771,2025-09-05,DATAWAVE ANALYTICS Pvt Ltd,monthly saas subscription,188.75,Software & Subscriptions,Datawave Analytics,0,0
+INV-100105,2025-09-11,pixelforge software,annual software license,159.31,Software & Subscriptions,Pixelforge Software,0,0
+INV-100565,2025-02-04,CLOUDNEST SYSTEMS LLC,monthly saas subscription,104.81,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100389,2025-04-02,Aquaflow Services Inc,internet broadband bill,67.51,Utilities,Aquaflow Services,0,0
+INV-100001,2025-05-25,Datawave Analyics Pvt Ltd,monthly saas subscription,150.02,Software & Subscriptions,Datawave Analytics,0,0
+INV-100994,2025-03-16,BRANDPEAK MARKETING,audit and tax advisory,202.71,Professional Services,Brandpeak Marketing,0,0
+INV-900034,2025-06-27,Ledgerwise Consultants,legal consultation fee,510.06,Professional Services,Ledgerwise Consultants,1,0
+INV-100561,2025-05-06,Pixelforge Software Inc,annual software license,115.3,Software & Subscriptions,Pixelforge Software,0,0
+INV-100931,2025-10-24,Brandpeak  Marketing Pvt Ltd,legal consultation fee,1024.19,Professional Services,Brandpeak Marketing,0,0
+INV-100080,2025-09-07,paperline traders LLC,printer paper and toner,39.53,Office Supplies,Paperline Traders,0,0
+INV-100205,2025-05-01,POWERGRID UTILITIES Pvt Ltd,water charges,81.79,Utilities,Powergrid Utilities,0,0
+INV-100034,2025-06-05,Paperline Traders Co.,office desk accessories,72.63,Office Supplies,Paperline Traders,0,0
+INV-100942,2025-09-28,STAYWELL HOTELS Pvt Ltd,flight booking,3020.69,Travel,Staywell Hotels,0,1
+INV-100775,2025-02-09,BRANDPEAK MARKETING,audit and tax advisory,804.08,Professional Services,Brandpeak Marketing,0,0
+INV-100508,2025-10-23,Netlink Broadband LLC,internet broadband bill,102.91,Utilities,Netlink Broadband,0,0
+INV-100427,2025-08-10,Cloudnest Systems Ltd.,annual software license,78.38,Software & Subscriptions,Cloudnest Systems,0,0
+INV-100454,2025-11-21,Skyroute  Travels Pvt Ltd,airport cab fare,262.5,Travel,Skyroute Travels,0,0
+INV-900028,2025-01-18,Aquaflow Services LLC,water charges,86.93,Utilities,Aquaflow Services,1,0
+INV-100366,2025-10-05,netlink broadband,internet broadband bill,47.84,Utilities,Netlink Broadband,0,0
+INV-100091,2025-09-16,Netlink  Broadband Pvt Ltd,water charges,110.95,Utilities,Netlink Broadband,0,0
+INV-100339,2025-10-10,AQUAFLOW SERVICES Pvt Ltd,internet broadband bill,124.1,Utilities,Aquaflow Services,0,0
+INV-100897,2025-03-12,Brandpeak Marketing LLC,legal consultation fee,672.76,Professional Services,Brandpeak Marketing,0,0
+INV-100564,2025-05-27,Brandpeak Marketing,legal consultation fee,1043.52,Professional Services,Brandpeak Marketing,0,0
+INV-100345,2025-04-13,Aquaflow  Services,internet broadband bill,101.63,Utilities,Aquaflow Services,0,0
+INV-100776,2025-02-23,powergrid utilities Pvt Ltd,electricity bill,80.39,Utilities,Powergrid Utilities,0,0
+INV-100241,2025-09-09,DATAWAVE ANALYTICS LLC,annual software license,130.81,Software & Subscriptions,Datawave Analytics,0,0
+INV-100013,2025-07-28,aquaflow services Ltd.,electricity bill,85.38,Utilities,Aquaflow Services,0,0
+INV-100315,2025-01-12,aquafow services Co.,internet broadband bill,82.67,Utilities,Aquaflow Services,0,0
+INV-100600,2025-11-07,ledgerwise consultants Pvt Ltd,audit and tax advisory,763.56,Professional Services,Ledgerwise Consultants,0,0
+INV-100387,2025-04-12,Aquaflow  Services,electricity bill,53.8,Utilities,Aquaflow Services,0,0
+INV-100273,2025-03-07,ROADRUNNER CABS,airport cab fare,276.69,Travel,Roadrunner Cabs,0,0
+INV-100166,2025-10-05,Brandpeak Markting Co.,audit and tax advisory,458.71,Professional Services,Brandpeak Marketing,0,0
+INV-100840,2025-05-26,lexa legal associates,audit and tax advisory,583.19,Professional Services,Lexa Legal Associates,0,0
+INV-100020,2025-05-01,brightoffice supplies,office desk accessories,102.83,Office Supplies,Brightoffice Supplies,0,0
+INV-100646,2025-07-04,Pixelforge  Software Pvt Ltd,annual software license,73.5,Software & Subscriptions,Pixelforge Software,0,0
+INV-100818,2025-05-19,brightoffice supplies Co.,stationery order,77.74,Office Supplies,Brightoffice Supplies,0,0
+INV-100484,2025-05-17,Lexa  Legal  Associates Ltd.,audit and tax advisory,854.37,Professional Services,Lexa Legal Associates,0,0
+INV-900033,2025-09-28,Cloudnest  Systems LLC,annual software license,99.97,Software & Subscriptions,Cloudnest Systems,1,0
+INV-100504,2025-03-18,Netlink  Broadband Ltd.,electricity bill,119.69,Utilities,Netlink Broadband,0,0
+INV-100831,2025-09-24,CLOUDNEST SYSTEMS Co.,cloud hosting fee,875.51,Software & Subscriptions,Cloudnest Systems,0,1
+INV-100243,2025-04-14,ROADRUNNER CABS Ltd.,airport cab fare,303.22,Travel,Roadrunner Cabs,0,0
+INV-100566,2025-10-12,Paperline  Traders Ltd.,stationery order,44.94,Office Supplies,Paperline Traders,0,0
+INV-100875,2025-11-15,Powergrid Utilties,water charges,50.61,Utilities,Powergrid Utilities,0,0
+INV-100562,2025-08-04,BRANDPEAK MARKETING LLC,legal consultation fee,967.12,Professional Services,Brandpeak Marketing,0,0
+INV-900011,2025-08-08,skyroute travels,airport cab fare,413.12,Travel,Skyroute Travels,1,0
+INV-100686,2025-09-05,Datawav  Analytics Pvt Ltd,cloud hosting fee,53.8,Software & Subscriptions,Datawave Analytics,0,0
+INV-100957,2025-05-25,brandpeak marketing Inc,marketing retainer,913.65,Professional Services,Brandpeak Marketing,0,0
+INV-100189,2025-10-03,Skyroute Travels Ltd.,flight booking,348.9,Travel,Skyroute Travels,0,0
+INV-100782,2025-11-11,Pielforge-Software,monthly saas subscription,120.05,Software & Subscriptions,Pixelforge Software,0,0
+INV-100975,2025-07-30,paperline traders LLC,printer paper and toner,65.8,Office Supplies,Paperline Traders,0,0
+INV-100699,2025-08-15,roadrunner cabs,airport cab fare,373.37,Travel,Roadrunner Cabs,0,0
+INV-100475,2025-01-22,Netlink Broadband Inc,water charges,67.12,Utilities,Netlink Broadband,0,0
+INV-100681,2025-01-31,staywell hotels,hotel stay client visit,393.71,Travel,Staywell Hotels,0,0
+INV-100510,2025-03-23,Deskmate  Stationers Co.,office desk accessories,60.23,Office Supplies,Deskmate Stationers,0,0
+INV-100058,2025-11-06,Skyroute Travels Ltd.,airport cab fare,321.37,Travel,Skyroute Travels,0,0
+INV-100474,2025-07-08,AQUAFLOW SERVICES LLC,water charges,31.99,Utilities,Aquaflow Services,0,0
+INV-100560,2025-08-02,Brightoffice Supplies Inc,printer paper and toner,60.58,Office Supplies,Brightoffice Supplies,0,0
+INV-100856,2025-03-01,Aquaflow  Services Pvt td,electricity bill,106.55,Utilities,Aquaflow Services,0,0
+INV-100747,2025-08-10,paperline traders Pvt Ltd,stationery order,38.05,Office Supplies,Paperline Traders,0,0
+INV-100252,2025-05-20,netlink broadband,water charges,111.05,Utilities,Netlink Broadband,0,0
+INV-100021,2025-11-16,netlink broadband Pvt Ltd,electricity bill,77.19,Utilities,Netlink Broadband,0,0
+INV-100459,2025-02-21,Deskmate  Stationers LLC,office desk accessories,107.65,Office Supplies,Deskmate Stationers,0,0
+INV-100276,2025-09-28,brightoffice supplies,office desk accessories,76.59,Office Supplies,Brightoffice Supplies,0,0
+INV-100955,2025-04-25,Ledgerwise-Consultants Ltd.,legal consultation fee,512.53,Professional Services,Ledgerwise Consultants,0,0
+INV-100385,2025-01-09,netlin broadband,water charges,73.68,Utilities,Netlink Broadband,0,0
+INV-100805,2025-06-05,lex legal associates Ltd.,legal consultation fee,921.65,Professional Services,Lexa Legal Associates,0,0
+INV-100343,2025-11-13,Powergrid Utilities,internet broadband bill,150.51,Utilities,Powergrid Utilities,0,0
+INV-100769,2025-03-26,brandpeak marketing Co.,audit and tax advisory,708.19,Professional Services,Brandpeak Marketing,0,0
+INV-100130,2025-04-03,Skyroute Travels Co.,flight booking,198.22,Travel,Skyroute Travels,0,0
+INV-100871,2025-07-06,PAPERLINE TRADERS,office desk accessories,63.39,Office Supplies,Paperline Traders,0,0
+INV-100087,2025-07-11,Lexa  Legal  Associates Ltd.,marketing retainer,397.13,Professional Services,Lexa Legal Associates,0,0
+INV-100330,2025-05-07,DESKMATE STATIONERS Inc,printer paper and toner,42.97,Office Supplies,Deskmate Stationers,0,0
+INV-100466,2025-06-05,powergrid utilities LLC,internet broadband bill,79.11,Utilities,Powergrid Utilities,0,0
+INV-100121,2025-04-15,ROADRUNNER CABS LLC,hotel stay client visit,344.13,Travel,Roadrunner Cabs,0,0
+INV-100860,2025-11-01,DATAWAVE ANALYTICS Inc,monthly saas subscription,134.92,Software & Subscriptions,Datawave Analytics,0,0

@@ -1,0 +1,26 @@
+{
+  "vendor_mapping": {
+    "raw_distinct_vendor_strings": 485,
+    "canonical_vendors_found": 15,
+    "true_vendors": 15
+  },
+  "categorization_holdout": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  },
+  "duplicate_detection": {
+    "tp": 38,
+    "fp": 1,
+    "fn": 2,
+    "precision": 0.974,
+    "recall": 0.95
+  },
+  "outlier_detection": {
+    "tp": 29,
+    "fp": 0,
+    "fn": 1,
+    "precision": 1.0,
+    "recall": 0.967
+  },
+  "note": "All figures are computed on synthetic data; see README."
+}

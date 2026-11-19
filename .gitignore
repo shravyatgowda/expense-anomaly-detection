@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.env
+# Never commit real client data
+data/private/
+*.xlsx
+*.qbo
